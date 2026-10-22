@@ -10,7 +10,7 @@ standards, made independently, on an iPhone.
 introduction, 2026-10-21.
 https://x.com/c4chaos/status/2112911207740952907
 (Her full public development history, 2023 → launch, is indexed in
-`episodes/X-POST-REPOSITORY.md`.)
+[`episodes/X-POST-REPOSITORY.md`](../episodes/X-POST-REPOSITORY.md).)
 
 ## As the audience has met her
 
@@ -19,7 +19,7 @@ https://x.com/c4chaos/status/2112911207740952907
   language BLACKFIRE Live-action.
 - Golden-yellow kimono with a cherry blossom (sakura) design, black
   obi; hair in a tight topknot with a single thin hairpin. Her
-  weapons and attire are catalogued in `artifacts/`.
+  weapons and attire are catalogued in [`artifacts/`](../artifacts/).
 - The **Wingspan tattoo**: wings across her back, shoulder to
   shoulder. Her emblem, the Wingspan kamon, is the lead mark of the
   series.

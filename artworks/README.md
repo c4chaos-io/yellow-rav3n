@@ -1,8 +1,8 @@
 # Artworks
 
 Established 2026-10-21. The finished public artwork repository
-(GROUND-RULES.md §4/§11): key art, posters, covers, title cards, and
-released stills. Slides and decks live in `documents/` as PDFs.
+([GROUND-RULES.md](../GROUND-RULES.md) §4/§11): key art, posters, covers, title cards, and
+released stills. Slides and decks live in [`documents/`](../documents/) as PDFs.
 
 Rules: finished and released only; web resolution; metadata stripped;
 Wingspan kamon + Centaur byline (~C4Chaos / Fluffy) stamped where the

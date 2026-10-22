@@ -7,9 +7,9 @@ Wingspan tattoo design and the Wingspan kamon emblem), her name and
 in-story identity (Akira Ueshiba), the story world, all episodes,
 and all artwork, video, text, and story material in this repository
 are the original work of ~C4Chaos — **except** material expressly
-designated in `SHARE-PACK.md` (CC BY-NC 4.0) or code under
-`LICENSE-MIT.md`. Everything not so designated is Core IP under this
-license. This file is Layer 1 of the licensing split; `LICENSE.md`
+designated in [`SHARE-PACK.md`](SHARE-PACK.md) (CC BY-NC 4.0) or code under
+[`LICENSE-MIT.md`](LICENSE-MIT.md). Everything not so designated is Core IP under this
+license. This file is Layer 1 of the licensing split; [`LICENSE.md`](LICENSE.md)
 is the map.
 
 No part of the Core IP may be reproduced, distributed, adapted, or
@@ -20,7 +20,7 @@ for review or commentary.
 In particular, without written permission: no merchandise, no use of
 the character as a character in other works or products, no sale or
 paid distribution of adaptations, and no use governed instead by the
-IP & Training Notice (`IP-AND-TRAINING-NOTICE.md`), which applies to
+IP & Training Notice ([`IP-AND-TRAINING-NOTICE.md`](IP-AND-TRAINING-NOTICE.md)), which applies to
 every layer.
 
 YELLOW RAV3N™, the Wingspan kamon, and the YELLOW RAV3N wordmark are

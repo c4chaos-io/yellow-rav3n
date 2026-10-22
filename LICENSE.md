@@ -7,7 +7,7 @@ and flag the disagreement to the author, do not silently pick one.
 
 ## The layers
 
-1. **Core IP — All Rights Reserved** (`LICENSE-ARR.md`)
+1. **Core IP — All Rights Reserved** ([`LICENSE-ARR.md`](LICENSE-ARR.md))
    The Yellow Rav3n character and her likeness, the name YELLOW RAV3N,
    Akira Ueshiba, the story world and episodes, the Wingspan tattoo
    design, the Wingspan kamon and the YELLOW RAV3N wordmark, all
@@ -15,7 +15,7 @@ and flag the disagreement to the author, do not silently pick one.
    designates. Default rule: if a file is not designated Share Pack or
    code, it is Core IP.
 
-2. **Share Pack — CC BY-NC 4.0** (`SHARE-PACK.md`)
+2. **Share Pack — CC BY-NC 4.0** ([`SHARE-PACK.md`](SHARE-PACK.md))
    The material designated in SHARE-PACK.md (blog and production-log
    text, designated calling-card artworks) is licensed under the
    Creative Commons Attribution-NonCommercial 4.0 International
@@ -25,13 +25,13 @@ and flag the disagreement to the author, do not silently pick one.
    are irrevocable for copies already distributed, so the pack can
    only grow, never shrink. When in doubt, a file is NOT in the pack.
 
-3. **Code — MIT** (`LICENSE-MIT.md`)
+3. **Code — MIT** ([`LICENSE-MIT.md`](LICENSE-MIT.md))
    Site plumbing and scripts in this repository (GitHub Pages /
    Jekyll configuration and templates, build scripts).
 
 ## Over everything, regardless of layer
 
-- **IP & Training Notice** (`IP-AND-TRAINING-NOTICE.md`): no training
+- **IP & Training Notice** ([`IP-AND-TRAINING-NOTICE.md`](IP-AND-TRAINING-NOTICE.md)): no training
   of models on any material in this repository, no replication of the
   character's likeness by model or agent, no NFT minting; commercial
   use by or through an AI agent is commercial use.
@@ -61,7 +61,7 @@ about what a fork is and is not:
 - **Enforcement follows use, not copying.** The exposure this
   repository accepts is deliberate: what is published here is finished
   work at web resolution, published under the Kitchen Test
-  (`GROUND-RULES.md` §3), and the production recipe — prompts,
+  ([`GROUND-RULES.md`](GROUND-RULES.md) §3), and the production recipe — prompts,
   reference packs, masters, unpublished canon — is never in this
   repository to be forked. Misuse is answered with the copyright
   claim, the trademark claim, and platform takedown processes.

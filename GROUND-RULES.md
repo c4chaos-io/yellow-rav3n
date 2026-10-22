@@ -115,7 +115,7 @@ commit can never be taken back (forks and clones keep copies).
 ## 4. What goes in
 
 - **Timeline / evidence chain** — the dated milestones, newest first in
-  the README, full chain in `evidence/EVIDENCE-INDEX.md`.
+  the README, full chain in [`evidence/EVIDENCE-INDEX.md`](evidence/EVIDENCE-INDEX.md).
 - **Episode index** — the documented pointer to every episode and video
   (see §7). Links out to X and YouTube; nothing is hosted here.
 - **Calling-card character material, at published depth** — who she is,
@@ -223,7 +223,7 @@ is public, the workshop manual is not.
 
 ## 7. The episode index
 
-One canonical table (`episodes/EPISODES.md`) pointing to everything
+One canonical table ([`episodes/EPISODES.md`](episodes/EPISODES.md)) pointing to everything
 she has publicly appeared in. One row per piece:
 
 `Date · Title · Series/register (Demon Mode, Tranquil Solitude, MTV,
@@ -257,7 +257,7 @@ posts, production log):
   reveal (§2/§5): no audio, no takes, no announcements.
 
 The X post repository ships here too (author's order, 2026-10-21):
-`episodes/X-POST-REPOSITORY.md`, the public edition of the private
+[`episodes/X-POST-REPOSITORY.md`](episodes/X-POST-REPOSITORY.md), the public edition of the private
 X post log — every dated post, every era, with the soundtrack index.
 It is a public EDITION, never a copy of the working log: internal
 annotations stay home (background checks, fetch notes, production
@@ -270,7 +270,7 @@ ships, and the two are reconciled at each repo session.
 
 - Every dated claim in the repo carries its platform link. No link,
   no claim — an unverified ID stays out until confirmed (see the open
-  items in `evidence/EVIDENCE-INDEX.md`).
+  items in [`evidence/EVIDENCE-INDEX.md`](evidence/EVIDENCE-INDEX.md)).
 - Links die: posts get gated, accounts change, platforms fold. Each
   milestone row is backed by a dated screenshot or archived snapshot
   kept in `evidence/` — the link is the pointer, the snapshot is the
@@ -295,11 +295,11 @@ ships, and the two are reconciled at each repo session.
   community project. No contributions, no pull requests, no fan-work
   license. GitHub Discussions stay off.
 - Licensing: the three-layer split adopted by the author 2026-10-21,
-  mapped in `LICENSE.md` — Core IP All Rights Reserved
-  (`LICENSE-ARR.md`); designated Share Pack material under CC BY-NC
-  4.0 (`SHARE-PACK.md`, starts small, designation by name only, CC
-  grants are irrevocable); code under MIT (`LICENSE-MIT.md`); the
-  IP & Training Notice over everything (`IP-AND-TRAINING-NOTICE.md`:
+  mapped in [`LICENSE.md`](LICENSE.md) — Core IP All Rights Reserved
+  ([`LICENSE-ARR.md`](LICENSE-ARR.md)); designated Share Pack material under CC BY-NC
+  4.0 ([`SHARE-PACK.md`](SHARE-PACK.md), starts small, designation by name only, CC
+  grants are irrevocable); code under MIT ([`LICENSE-MIT.md`](LICENSE-MIT.md)); the
+  IP & Training Notice over everything ([`IP-AND-TRAINING-NOTICE.md`](IP-AND-TRAINING-NOTICE.md):
   no model training, no likeness replication, agent use is its
   principal's use). Trademarks (YELLOW RAV3N™, Wingspan kamon,
   wordmark) are never licensed here. This repo is a deliberate
@@ -308,7 +308,7 @@ ships, and the two are reconciled at each repo session.
 - Forks: accepted, on the record (author's call, 2026-10-21). A public
   repo cannot disable forking, and a private repo would kill the
   site, the calling card, and the public evidence chain, so forks
-  stand. The stance, written into `LICENSE.md` ("On forks and
+  stand. The stance, written into [`LICENSE.md`](LICENSE.md) ("On forks and
   copies"): a fork is a platform mechanic, not a license; it grants
   no rights; it preserves our commit history, timestamps, and origin
   attribution, so it extends the evidence chain rather than breaking
@@ -403,7 +403,7 @@ forks and copies") at the author's order — forks accepted as a
 platform mechanic that grants no rights and preserves the evidence
 chain; README gained the dedication (verbatim from TPS) and the
 Centaur Production section. v0.7 same day: the X post repository
-joins the repo (author's order) as `episodes/X-POST-REPOSITORY.md`,
+joins the repo (author's order) as [`episodes/X-POST-REPOSITORY.md`](episodes/X-POST-REPOSITORY.md),
 a scrubbed public edition of the private X post log (all 64 dated
 post links carried over; internal annotations, continuity keys, and
 bookkeeping stripped), with the keep-it-up-to-date maintenance rule

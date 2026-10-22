@@ -20,6 +20,9 @@ and the master index to her episodes on YouTube and Twitter/X.
 
 ## Latest
 
+- 2026-10-21 — **Repo announced:** this repository was announced in a
+  reply to the launch post, opened to celebrate her first official
+  teaser: https://x.com/c4chaos/status/2113072492877344794
 - 2026-10-21 — **EMBER launch:** "MEET YELLOW RAV3N." — the official
   series introduction. https://x.com/c4chaos/status/2112911207740952907
   (New announcements and posts are linked here, newest first.)

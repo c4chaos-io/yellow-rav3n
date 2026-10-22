@@ -1,14 +1,16 @@
 # Production Log
 
-Established 2026-10-21. The one public making-of log (GROUND-RULES.md
-§11: one log, named Production Log — no separate devlog). Numbered
+Established 2026-10-21. The one public making-of log ([GROUND-RULES.md](../GROUND-RULES.md) §11: one log, named Production Log — no separate devlog). Numbered
 entries (`prodlog_001.md`, …) at published depth: what was made, what
 changed, tool and workflow evolution in the open. This is the public
 cut of the arc the private Production Evolution Log tracks in full;
 entries never carry prompts, lock text, unreleased plans, or
 canon-in-progress.
 
-First entry candidate: prodlog_001 — Genesis to Launch (2023–2026),
-the arc in one entry, pointing down the evidence chain.
+## Entries
 
-*End of stub.*
+- [`prodlog_001.md`](prodlog_001.md) — **EMBER: the first official
+  teaser** (2026-10-21). The launch of "MEET YELLOW RAV3N." is the
+  first entry, by the author's order: the day the series went
+  public is where the public log begins. (The Genesis to Launch
+  retrospective, 2023–2026, follows as a later entry.)
