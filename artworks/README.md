@@ -13,4 +13,14 @@ First residents at creation (author picks): the EMBER launch
 key art and the BLACKFIRE master board (portrait), both already public
 in finished form.
 
-*End of stub.*
+## Residents
+
+- `splash-cover-v3.jpg` — the repo splash cover (2026-10-21): Yellow
+  Rav3n in the rain before a torii gate, right of frame, her sakura
+  kimono slowly burning — flames crawling the cloth, ember cracks,
+  smoke — with no wing shape anywhere; the official wordmark
+  lettering and the series tagline sit in the dark left of the
+  frame, clear of her face. It heads the main README. (v1
+  superseded the same day: its tagline crossed her face. v2
+  superseded the same day: its glowing wing outline on her back
+  read cheesy to the author — the flaming kimono replaced it.)

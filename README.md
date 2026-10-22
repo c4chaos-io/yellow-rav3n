@@ -1,3 +1,5 @@
+![Yellow Rav3n — splash cover: Yellow Rav3n in the rain before a torii gate, her sakura kimono slowly burning](artworks/splash-cover-v3.jpg)
+
 # YELLOW RAV3N
 
 **A live-action series character by ~C4Chaos — genesis 2023, launched 2026.**
