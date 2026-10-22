@@ -1,33 +1,33 @@
-# Characters — the cast of the Yellow Rav3n universe
+# Samples — the menu photo, not the recipe
 
-One entry per character in the Yellow Rav3n universe, at published
-depth: who they are as the audience has met them, never more.
+Established 2026-10-21. Rules live in [GROUND-RULES.md](../GROUND-RULES.md) §6.
 
-## The appearance gate (author's rule, 2026-10-21)
+What lands here on the author's pick:
 
-**A character gets an entry here only once they have appeared in an
-official episode or an official trailer.** Not when they are
-conceived, not when they are cast in the story arc, not when they
-appear in development posts or experiments. The directory never
-pre-announces a character, carries no "upcoming cast" list, and
-holds no placeholder entries. An empty slot here means one thing:
-the audience hasn't met them yet.
+- **Lookbook excerpts** — a few spreads from Yellow Rav3n Lookbook
+  Vol. 01 (24 pages, BLACKFIRE Live-action, built 2026-10-18), never
+  the full volume in this repo.
+- **Storyboards of released work only** — first candidate: boards for
+  the EMBER teaser (launched 2026-10-21). Nothing for unreleased work.
 
-**On-screen only (author's ruling, 2026-10-21):** appearance means
-*seen* on screen. A voice-only appearance does not qualify — a
-character who is only heard waits for their entry until they are
-seen. (In EMBER, two voices are heard but never seen: a bystander's
-and the Demon's. Neither has an entry. Yet.)
+Every sample: web resolution, metadata stripped, no layered or source
+files, no generation sidecar files, Wingspan kamon + Centaur byline
+(~C4Chaos / Fluffy) stamped. Admission test per sample: if a competent
+stranger could rebuild our pipeline or her exact look from it alone,
+it does not ship.
 
-Entries are written at published depth under the Kitchen Test
-([GROUND-RULES.md](../GROUND-RULES.md) §3): what released work shows, in the order it
-showed it. Each entry records the character's first official
-appearance (episode or trailer, linked to the episode index).
+## Residents
 
-## Current entries
+- [`lookbook-mood-board-public-v4.png`](lookbook-mood-board-public-v4.png)
+  — **Lookbook Vol. 01, public mood board** (2026-10-22). One page
+  cut from the 24-page production lookbook (built 2026-10-18,
+  BLACKFIRE Live-action; the full volume is private canon and is
+  not published here). Eight public-depth frames: the glare,
+  Tranquil Solitude, the warrior in the rain, the Wingspan worn in
+  a snowy shrine scene, the White Dojo, the ember tell from EMBER,
+  snow kata, and her grip on the katana. Web resolution, stamped
+  with the Wingspan kamon and the Centaur byline. Character and
+  artwork: All Rights Reserved (see
+  [`../LICENSE-ARR.md`](../LICENSE-ARR.md)); not designated Share
+  Pack material.
 
-- [`yellow-rav3n.md`](yellow-rav3n.md) — Yellow Rav3n (Akira Ueshiba). First official
-  appearance: EMBER, the official series introduction, 2026-10-21.
-
----
-*Established 2026-10-21.*

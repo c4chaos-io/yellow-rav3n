@@ -7,6 +7,9 @@ announcements also get a git tag.
 
 ## Entries (newest first)
 
+- [`2026-10-22-lookbook-mood-board.md`](2026-10-22-lookbook-mood-board.md)
+  — **THE LOOKBOOK, ONE PAGE.**: the public mood board from
+  Lookbook Vol. 01 lands in [`samples/`](../samples/README.md).
 - [`2026-10-21-meet-yellow-rav3n.md`](2026-10-21-meet-yellow-rav3n.md)
   — **MEET YELLOW RAV3N.**: the official series introduction,
   EMBER launch day. The first post.

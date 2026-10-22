@@ -12,6 +12,11 @@ https://x.com/c4chaos/status/2112911207740952907
 (Her full public development history, 2023 → launch, is indexed in
 [`episodes/X-POST-REPOSITORY.md`](../episodes/X-POST-REPOSITORY.md).)
 
+![Yellow Rav3n — Lookbook Vol. 01 public mood board: the glare, Tranquil Solitude, the warrior in the rain, the Wingspan worn, the White Dojo, the ember tell, snow kata, her grip on the katana](../samples/lookbook-mood-board-public-v4.png)
+
+*The public mood board from Lookbook Vol. 01 (2026-10-22), filed in
+[`samples/`](../samples/README.md).*
+
 ## As the audience has met her
 
 - A samurai in feudal Japan, in the house style of the series:

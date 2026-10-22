@@ -20,6 +20,10 @@ and the master index to her episodes on YouTube and Twitter/X.
 
 ## Latest
 
+- 2026-10-22 — **Lookbook mood board:** a one-page public sample
+  from Lookbook Vol. 01 lands in [`samples/`](samples/README.md) —
+  [the board](samples/lookbook-mood-board-public-v4.png), announced
+  in [posts](posts/2026-10-22-lookbook-mood-board.md).
 - 2026-10-21 — **Repo announced:** this repository was announced in a
   reply to the launch post, opened to celebrate her first official
   teaser: https://x.com/c4chaos/status/2113072492877344794

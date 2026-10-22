@@ -9,6 +9,9 @@ canon-in-progress.
 
 ## Entries
 
+- [`prodlog_002.md`](prodlog_002.md) — **Lookbook Vol. 01 and its
+  public mood board** (2026-10-22). The 24-page private volume,
+  and the one public page cut from it under the Kitchen Test.
 - [`prodlog_001.md`](prodlog_001.md) — **EMBER: the first official
   teaser** (2026-10-21). The launch of "MEET YELLOW RAV3N." is the
   first entry, by the author's order: the day the series went
