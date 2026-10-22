@@ -1,0 +1,7 @@
+*.mp4
+*.mov
+*.mp3
+*.wav
+*.m4a
+media-generation-*.json
+.DS_Store
