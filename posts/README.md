@@ -7,6 +7,10 @@ announcements also get a git tag.
 
 ## Entries (newest first)
 
+- [`2026-10-23-her-name-now-has-a-theme.md`](2026-10-23-her-name-now-has-a-theme.md)
+  — **HER NAME NOW HAS A THEME.**: the official opening credits
+  teaser, presenting the original main title theme "Legacy
+  (Yellow Rav3n Main Title)".
 - [`2026-10-22-lookbook-mood-board.md`](2026-10-22-lookbook-mood-board.md)
   — **THE LOOKBOOK, ONE PAGE.**: the public mood board from
   Lookbook Vol. 01 lands in [`samples/`](../samples/README.md).

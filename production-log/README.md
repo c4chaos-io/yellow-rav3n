@@ -9,6 +9,14 @@ canon-in-progress.
 
 ## Entries
 
+- [`prodlog_004.md`](prodlog_004.md) — **A Centaur
+  Production: the rename** (2026-10-23). YR Production becomes
+  A Centaur Production, everywhere; CENTAUR.md lands, headed
+  by the Centaur Beer Buddies poster on its first outing.
+- [`prodlog_003.md`](prodlog_003.md) — **Legacy: the main title
+  theme** (2026-10-23). The opening credits teaser ships on X
+  and YouTube; the first ship run under the three-step
+  checklist.
 - [`prodlog_002.md`](prodlog_002.md) — **Lookbook Vol. 01 and its
   public mood board** (2026-10-22). The 24-page private volume,
   and the one public page cut from it under the Kitchen Test.

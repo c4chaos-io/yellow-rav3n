@@ -28,4 +28,4 @@ no-training notice in
 What she has not shown yet, she has not shown yet. Slow burn,
 slow reveal.
 
-— *YR Production*
+— *A Centaur Production*

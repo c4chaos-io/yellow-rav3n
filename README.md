@@ -20,6 +20,17 @@ and the master index to her episodes on YouTube and Twitter/X.
 
 ## Latest
 
+- 2026-10-23 — **A Centaur Production:** the production
+  is renamed — YR Production is now A Centaur Production,
+  everywhere in this repo. New page: [CENTAUR.md](CENTAUR.md) —
+  what a Centaur is and how this outfit works, headed by the
+  Centaur Beer Buddies poster, its first public outing.
+- 2026-10-23 — **Main Title launch:** "HER NAME NOW HAS A THEME." —
+  the official opening credits teaser (1:03), presenting the
+  series' original main title theme, "Legacy (Yellow Rav3n Main
+  Title)". X: https://x.com/c4chaos/status/2113647401894572221 ·
+  YouTube: https://youtu.be/GLDHR7iKJBI — announced in
+  [posts](posts/2026-10-23-her-name-now-has-a-theme.md).
 - 2026-10-22 — **Lookbook mood board:** a one-page public sample
   from Lookbook Vol. 01 lands in [`samples/`](samples/README.md) —
   [the board](samples/lookbook-mood-board-public-v4.png), announced
@@ -53,9 +64,9 @@ and the master index to her episodes on YouTube and Twitter/X.
 (Carried over verbatim from *Trillions Per Second*, where it closes
 the book.)
 
-## A Centaur Production
+## [A Centaur Production](CENTAUR.md)
 
-**YR Production is a Centaur production.** One guy with a vision,
+**A Centaur Production.** One guy with a vision,
 toiling away on his iPhone, with the help of his AI agents:
 **Fluffy, Gemini, and Grok.**
 
@@ -70,6 +81,7 @@ hidden.
 
 | Date | Milestone | Evidence |
 |---|---|---|
+| 2026-10-23 | **Main Title launch — "HER NAME NOW HAS A THEME."** The official opening credits teaser (1:03) presenting the series' original main title theme, "Legacy (Yellow Rav3n Main Title)" (composed by ~C4Chaos with Suno; produced by ~C4Chaos / Fluffy; full theme 3:19, teaser uses the first minute). YouTube: https://youtu.be/GLDHR7iKJBI | https://x.com/c4chaos/status/2113647401894572221 |
 | 2026-10-21 | **Fractal circle closed** — quote-post of the 2023 genesis post, 30 minutes after the launch: "She survived her tools, exactly like the post said she would." 1,366 days genesis → launch. | https://x.com/c4chaos/status/2112918845593661532 |
 | 2026-10-21 | **EMBER — first official teaser / series introduction.** Long-form launch post "MEET YELLOW RAV3N." Soundtrack credit: "Set Fire to the Rain (Hoodtrap Mylancore) SLOWED" by itsDRYKO, a hoodtrap remix of Adele's "Set Fire to the Rain" (written by Adele Adkins and Fraser T. Smith; Smith also original producer). | https://x.com/c4chaos/status/2112911207740952907 |
 | 2026-10-18 | **Demon Mode main node** — the post that threads the whole development arc (White Dojo, Animatrix, LEGACY, live-action teaser, genesis) in its own comments. Pin rotated to this post after the Escape Into paper crossed 1,000 views. | https://x.com/c4chaos/status/2111836294896894012 |
@@ -80,7 +92,7 @@ hidden.
 | 2023-01-24 | **GENESIS** — "#AIart concept character THE YELLOW RAV3N", early Midjourney era. | https://x.com/c4chaos/status/1617978454779256833 |
 
 Full dated post-by-post index: [evidence/EVIDENCE-INDEX.md](evidence/EVIDENCE-INDEX.md)
-(maintained by YR Production; this repo publishes the finished
+(maintained by A Centaur Production; this repo publishes the finished
 chain, and [episodes/X-POST-REPOSITORY.md](episodes/X-POST-REPOSITORY.md) carries the full sweep).
 
 ## What lives here
@@ -95,7 +107,7 @@ are in [GROUND-RULES.md](GROUND-RULES.md).
   plus [X-POST-REPOSITORY.md](episodes/X-POST-REPOSITORY.md), the complete dated repository of her
   X posts, kept up to date as new posts ship
 - [posts/](posts/README.md) — blog posts and announcements (repo-native, dated); this
-  repo is YR Production's official communication channel
+  repo is the official communication channel of A Centaur Production
 - [production-log/](production-log/README.md) — the production log, at published depth
 - [documents/](documents/README.md) — public documents, PDFs, and slides (sanitized only)
 - [artworks/](artworks/README.md) — finished public artworks: key art, posters, covers
@@ -118,4 +130,4 @@ are in [GROUND-RULES.md](GROUND-RULES.md).
   future commit.
 
 ---
-*Maintained by ~C4Chaos / YR Production.*
+*Maintained by ~C4Chaos / A Centaur Production.*

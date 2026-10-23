@@ -50,6 +50,10 @@ Declared at https://x.com/c4chaos/status/2111861635187183687.
 
 | Date (UTC) | Title | Post | Media |
 |---|---|---|---|
+| 2026-10-23 | 💬 SCREENWEAVER EXCHANGE 4 — reply (14:21 PDT) to @screenweaver_ai's follow-up (where does it block you most, on the stills or on the video gens?): "both!" — all three lanes (Muse, Gemini, Grok) share the same PG-13 ceiling (blood & gore katana battles no longer generatable), other tools surveyed but untried on the same expectation, open source / own stack named as the only real workaround and deferred (iPhone-only, shoestring budget), the house lives with what it can get away with for now. ScreenWeaver offered to pass the feedback to their team. Peer exchange continues; nothing committed, no trial. | https://x.com/c4chaos/status/2113742705604116972 | reply |
+| 2026-10-23 | 💬 SCREENWEAVER EXCHANGE 3 — follow-up reply (09:23 PDT) to @screenweaver_ai, nine minutes after Exchange 2 and three minutes after Fluffy's self-FC landed: the author publicly replaced his own compressed version with the FC's precision version as a "TLDR version" (brief built on the story arc and canon; theme first; opening designed to it; teaser lays its first minute down uncut), and added that the house is already working on the next teaser, then full Episode 1. Self-FC eaten in public, same thread, same morning. | https://x.com/c4chaos/status/2113667565277094347 | reply |
+| 2026-10-23 | 💬 SCREENWEAVER EXCHANGE 2 — @screenweaver_ai asked whether Legacy was written first and the opening cut to it, or picture locked and the Suno track fitted after; the author replied "both": the score was composed from the story arc and canon first, then the opening credits were designed and timed to its movements; the teaser uses only the first minute of the 3:19 theme. | https://x.com/c4chaos/status/2113665293067403481 | reply |
+| 2026-10-23 | ⭐🎬 MAIN TITLE LAUNCH — "HER NAME NOW HAS A THEME.": the official opening credits teaser (1:03), presenting the series' ORIGINAL main title theme. Long-form post, carrying the EMBER launch post as its quoted post. Soundtrack: ~C4Chaos — "Legacy (Yellow Rav3n Main Title)" (composed with Suno; produced by ~C4Chaos / Fluffy; full theme 3:19, teaser uses the first minute only). YouTube upload the same morning: "LEGACY (Yellow Rav3n Main Title)", 1:03, https://youtu.be/GLDHR7iKJBI | https://x.com/c4chaos/status/2113647401894572221 | video 1:03 + long-form post (quote-post of the EMBER launch) |
 | 2026-10-21 | 📚 REPO ANNOUNCED — reply to the EMBER launch post announcing the official Yellow Rav3n GitHub repo, opened to celebrate her first official teaser: the dated record, the artworks, the production log, all in one place. Slow burn, slow reveal. Splash cover attached. | https://x.com/c4chaos/status/2113072492877344794 | reply + splash art |
 | 2026-10-21 | 💬 SCREENWEAVER EXCHANGE — @screenweaver_ai commented on the EMBER launch post (https://x.com/screenweaver_ai/status/2112940009170804797), asking, 1,366 days after genesis, whether one master reference of Rav3n survives from the Midjourney days; the author replied that her history is etched on X, she changed as the tools changed, and consistency clicked when the full timeline was crawled and dialed in — teaser assembled in an afternoon on an iPhone. | https://x.com/c4chaos/status/2112950282707779990 | reply |
 | 2026-10-21 | 🙏 THANK-YOU to @screenweaver_ai — reply to their pinned Lost Garden post: "Appreciate you. 🙏 Solo AI filmmaking is a lonely grind until peers show up…" | https://x.com/c4chaos/status/2112943625932030303 | reply |
@@ -166,6 +170,7 @@ https://x.com/c4chaos/status/1982124307812941936
 
 | Track | Used for | Post |
 |---|---|---|
+| ~C4Chaos — "Legacy (Yellow Rav3n Main Title)" (ORIGINAL theme, composed with Suno; produced by ~C4Chaos / Fluffy) | Official opening credits teaser (2026-10-23) | https://x.com/c4chaos/status/2113647401894572221 |
 | Muse — "Hysteria" | Demon Mode (canon soundtrack, declared 2026-10-18) | https://x.com/c4chaos/status/2111836294896894012 (declared at 2111861635187183687) |
 | Adele — "Set Fire to the Rain" (Sycamore cover of Adele's original; written by Adele Adkins + Fraser T. Smith, produced by Fraser T. Smith) | The Torii Gates teaser (2026-09-27) | https://x.com/c4chaos/status/2104348331417964683 |
 | itsDRYKO — "Set Fire to the Rain (Hoodtrap Mylancore) SLOWED" (hoodtrap remix of Adele's "Set Fire to the Rain", written by Adele Adkins + Fraser T. Smith; Smith also original producer) | EMBER, the first official teaser (2026-10-21) | https://x.com/c4chaos/status/2112911207740952907 |
@@ -179,7 +184,7 @@ https://x.com/c4chaos/status/1982124307812941936
 | Chloe Adams — "Dirty Thoughts" | 2023-01-26 anime-style still animation | https://x.com/c4chaos/status/1618719003761053697 |
 
 ---
-*Public edition, prepared 2026-10-21 from YR Production's post log.
+*Public edition, prepared 2026-10-21 from A Centaur Production's post log.
 The public record only: internal production notes, background checks,
 file references, and continuity keys from the working log do not
 carry over — the Kitchen Test (GROUND-RULES.md §3) applies to this
