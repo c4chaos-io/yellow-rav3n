@@ -21,6 +21,7 @@ curated episode pointer; the repository is the full public record.
 | 2025-10-21 | Teaser trailer | Teaser | https://x.com/c4chaos/status/1980668722311467183 | https://www.youtube.com/shorts/1FMZ8K7sgEM | 59s | Adele — "Set Fire to the Rain" (Sycamore cover; written by Adele Adkins and Fraser T. Smith) |
 | 2026-10-18 | Demon Mode (main node) | Demon Mode | https://x.com/c4chaos/status/2111836294896894012 | — | ~54s | Muse — "Hysteria" (canon soundtrack for Demon Mode) |
 | 2026-10-21 | EMBER — "MEET YELLOW RAV3N." (official series introduction) | Launch | https://x.com/c4chaos/status/2112911207740952907 | https://youtu.be/XXAwEfgfkig | ~60s | itsDRYKO — "Set Fire to the Rain (Hoodtrap Mylancore) SLOWED", a hoodtrap remix of Adele's "Set Fire to the Rain" (written by Adele Adkins and Fraser T. Smith; Smith also original producer) |
+| 2026-10-23 | Main Title — "HER NAME NOW HAS A THEME." (official opening credits teaser) | Opening credits | https://x.com/c4chaos/status/2113647401894572221 | https://youtu.be/GLDHR7iKJBI | 1:03 | ~C4Chaos — "Legacy (Yellow Rav3n Main Title)" (ORIGINAL theme, composed with Suno; produced by ~C4Chaos / Fluffy; full theme 3:19, teaser uses the first minute) |
 
 ## Open (do not invent)
 
