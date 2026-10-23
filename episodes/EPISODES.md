@@ -30,4 +30,4 @@ curated episode pointer; the repository is the full public record.
 - YouTube long-form links: pull from the 2026-09-27 crawl inventory,
   verify each, then add. None asserted here yet.
 
-*Maintained by A Centaur Production.*
+*Maintained by ~C4Chaos / Fluffy / A Centaur Production.*
