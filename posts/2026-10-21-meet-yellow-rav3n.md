@@ -24,4 +24,4 @@ https://x.com/c4chaos/status/2112918845593661532
 This repository opened the same day, as her official home and
 dated record. Slow burn, slow reveal.
 
-— *A Centaur Production*
+— ~C4Chaos / Fluffy / *A Centaur Production*
