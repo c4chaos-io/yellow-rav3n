@@ -24,7 +24,7 @@ posted on YouTube and Twitter/X.
 
 There is no Yellow Rav3n website (yet). This repo IS the official site:
 her home base on the public internet, under the author's own control.
-It is also the official communication channel for YR Production:
+It is also the official communication channel for A Centaur Production:
 if an announcement does not appear here, it is not official, whatever
 any platform post says. (Outbound channel: announcements flow from
 here; inbound conversation still happens on X, per §10.)
@@ -47,7 +47,7 @@ It does four jobs:
    repo is where the dates do the talking.
 3. **Official public log.** Moving forward, this is the official blog,
    production log, and announcement surface for Yellow Rav3n and for
-   YR Production — the same repo-as-blog pattern the author already
+   A Centaur Production — the same repo-as-blog pattern the author already
    runs for Trillions Per Second, where open commits are the
    publishing surface.
 4. **Document and artwork repository, and master index.** The home for
@@ -248,11 +248,11 @@ posts, production log):
   house!", 2026-10-20) applied to every borrowed track, because we
   respect the copyright of the works we borrow. The repo links
   episodes; it never hosts borrowed audio (§10).
-- **Original score:** YR Production also composes its own original
+- **Original score:** A Centaur Production also composes its own original
   music with Suno — including the YR Theme, in production now. When
   an original score ships in an official episode or trailer, it is
-  credited as what it is: original score by YR Production (composed
-  with Suno, a Centaur production credit like every other here).
+  credited as what it is: original score by A Centaur Production (composed
+  with Suno).
   Until it ships, the score is unreleased work under the slow
   reveal (§2/§5): no audio, no takes, no announcements.
 
@@ -330,7 +330,7 @@ plus three of its own:
   record is the Production Log (`production-log/`), the published-depth
   cut of the private Production Evolution Log. "Devlog" is software
   language and stays with the TPS repo; Yellow Rav3n is a film
-  production, its channel is YR Production, and one log is all a
+  production, its channel is A Centaur Production, and one log is all a
   shoestring, one-phone operation should maintain. Blog posts and
   announcements are audience-facing and live in `posts/`; the
   Production Log is the dated making-of record. Different jobs,
@@ -387,7 +387,7 @@ announcements, and document/PDF repository; §1 (four jobs), §2
 (repo-native text exception), §3 (gate updated), §4, and new §11 added;
 Overrides renumbered to §12. v0.3 same day: GitHub Pages adopted as the
 site's rendering (free; shoestring + iPhone directives); repo named
-the official communication channel for YR Production; the public log
+the official communication channel for A Centaur Production; the public log
 named Production Log (one log, no separate devlog — Fluffy's
 recommendation, pending ratification); artworks + slides added (§1,
 §4, §11). v0.4 same day: Production Log and blog confirmed separate
@@ -421,7 +421,7 @@ with zero
 pre-announcement or hinting before it; soundtrack doctrine (§7) —
 borrowed tracks always credited with the full chain (cover/remix
 artist + original performer, songwriters, producer where verified),
-and YR Production's original Suno score (incl. the YR Theme, in
+and A Centaur Production's original Suno score (incl. the YR Theme, in
 production) credited as original score when it ships, unreleased
 and unannounced until then; the two "Set Fire to the Rain" rows in
 the X post repository brought up to the full-chain standard.
@@ -434,7 +434,19 @@ narrowed by the author's order — the repo acknowledges X and
 YouTube only; every Instagram reference removed from the repo
 files (§2 platform list, §7 index fields, README, evidence and
 episode indexes). Other platforms may be added later, by the
-author's order, the same way. No overrides logged.
+author's order, the same way. No overrides logged. v1.3 (2026-10-23,
+post-ratification amendment by the author's order): the
+production is renamed — YR Production becomes A Centaur
+Production, everywhere in this repo, including the dated
+posts and logs; that sweep is an explicit §12 override of
+the §9 no-history-rewrite rule, logged here so the exception
+never silently becomes the policy. New page
+[CENTAUR.md](CENTAUR.md): what a Centaur is in these
+projects, linked from the README production credit; it is
+headed by the Centaur Beer Buddies poster, the production's
+calling card, which makes its first public outing in this
+repo.
 
-*End of ground rules v1.2 — ratified at repo creation, 2026-10-21;
-amendments v1.1–v1.2 by the author's order the same day.*
+*End of ground rules v1.3 — ratified at repo creation, 2026-10-21;
+amendments v1.1–v1.2 by the author's order the same day;
+v1.3 on 2026-10-23.*

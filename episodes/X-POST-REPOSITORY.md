@@ -184,7 +184,7 @@ https://x.com/c4chaos/status/1982124307812941936
 | Chloe Adams — "Dirty Thoughts" | 2023-01-26 anime-style still animation | https://x.com/c4chaos/status/1618719003761053697 |
 
 ---
-*Public edition, prepared 2026-10-21 from YR Production's post log.
+*Public edition, prepared 2026-10-21 from A Centaur Production's post log.
 The public record only: internal production notes, background checks,
 file references, and continuity keys from the working log do not
 carry over — the Kitchen Test (GROUND-RULES.md §3) applies to this

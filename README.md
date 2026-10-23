@@ -20,6 +20,11 @@ and the master index to her episodes on YouTube and Twitter/X.
 
 ## Latest
 
+- 2026-10-23 — **A Centaur Production:** the production
+  is renamed — YR Production is now A Centaur Production,
+  everywhere in this repo. New page: [CENTAUR.md](CENTAUR.md) —
+  what a Centaur is and how this outfit works, headed by the
+  Centaur Beer Buddies poster, its first public outing.
 - 2026-10-23 — **Main Title launch:** "HER NAME NOW HAS A THEME." —
   the official opening credits teaser (1:03), presenting the
   series' original main title theme, "Legacy (Yellow Rav3n Main
@@ -59,9 +64,9 @@ and the master index to her episodes on YouTube and Twitter/X.
 (Carried over verbatim from *Trillions Per Second*, where it closes
 the book.)
 
-## A Centaur Production
+## [A Centaur Production](CENTAUR.md)
 
-**YR Production is a Centaur production.** One guy with a vision,
+**A Centaur Production.** One guy with a vision,
 toiling away on his iPhone, with the help of his AI agents:
 **Fluffy, Gemini, and Grok.**
 
@@ -87,7 +92,7 @@ hidden.
 | 2023-01-24 | **GENESIS** — "#AIart concept character THE YELLOW RAV3N", early Midjourney era. | https://x.com/c4chaos/status/1617978454779256833 |
 
 Full dated post-by-post index: [evidence/EVIDENCE-INDEX.md](evidence/EVIDENCE-INDEX.md)
-(maintained by YR Production; this repo publishes the finished
+(maintained by A Centaur Production; this repo publishes the finished
 chain, and [episodes/X-POST-REPOSITORY.md](episodes/X-POST-REPOSITORY.md) carries the full sweep).
 
 ## What lives here
@@ -102,7 +107,7 @@ are in [GROUND-RULES.md](GROUND-RULES.md).
   plus [X-POST-REPOSITORY.md](episodes/X-POST-REPOSITORY.md), the complete dated repository of her
   X posts, kept up to date as new posts ship
 - [posts/](posts/README.md) — blog posts and announcements (repo-native, dated); this
-  repo is YR Production's official communication channel
+  repo is the official communication channel of A Centaur Production
 - [production-log/](production-log/README.md) — the production log, at published depth
 - [documents/](documents/README.md) — public documents, PDFs, and slides (sanitized only)
 - [artworks/](artworks/README.md) — finished public artworks: key art, posters, covers
@@ -125,4 +130,4 @@ are in [GROUND-RULES.md](GROUND-RULES.md).
   future commit.
 
 ---
-*Maintained by ~C4Chaos / YR Production.*
+*Maintained by ~C4Chaos / A Centaur Production.*
