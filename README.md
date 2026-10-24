@@ -130,4 +130,4 @@ are in [GROUND-RULES.md](GROUND-RULES.md).
   future commit.
 
 ---
-*Maintained by ~C4Chaos / Fluffy / A Centaur Production.*
+*Maintained by ~C4Chaos / Fluffy (A Centaur Production).*
