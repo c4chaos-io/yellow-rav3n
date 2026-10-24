@@ -24,3 +24,10 @@ in finished form.
   superseded the same day: its tagline crossed her face. v2
   superseded the same day: its glowing wing outline on her back
   read cheesy to the author — the flaming kimono replaced it.)
+
+- `main-title-teaser-still-v1.jpg` — a frame from the official
+  opening credits teaser (2026-10-23): a flame burning inside a
+  water droplet against pitch black, rain falling around it.
+  The opening image of the teaser for "Legacy (Yellow Rav3n Main
+  Title)"; it illustrates the launch record,
+  [HER NAME NOW HAS A THEME.](../posts/2026-10-23-her-name-now-has-a-theme.md).

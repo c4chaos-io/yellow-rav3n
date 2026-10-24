@@ -11,6 +11,10 @@ teaser carries only the first minute of the theme; the full
 theme runs 3:19, and the rest stays in the vault for now. Slow
 burn, slow reveal, even in the runtime.
 
+![A flame burning inside a water droplet against pitch black, rain falling — a frame from the opening credits teaser](../artworks/main-title-teaser-still-v1.jpg)
+
+*A frame from the opening credits teaser.*
+
 - **The launch post on X:** https://x.com/c4chaos/status/2113647401894572221
 - **On YouTube:** "LEGACY (Yellow Rav3n Main Title)" (1:03) — https://youtu.be/GLDHR7iKJBI
 - **Theme:** "Legacy (Yellow Rav3n Main Title)" — composed by
