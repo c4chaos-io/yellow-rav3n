@@ -1,6 +1,6 @@
 # Evidence Index — dated prior-creation chain
 
-Maintained by A Centaur Production. Every link below was verified against
+Maintained by ~C4Chaos / Fluffy (A Centaur Production). Every link below was verified against
 the production's X post repository (collected 2026-09-27, last append
 2026-10-21) and copied from it on 2026-10-21. Read top-down: the
 launch sits on top of the chain, the genesis at the root — that

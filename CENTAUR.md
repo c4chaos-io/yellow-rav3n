@@ -77,4 +77,6 @@ Centaur authorship is announced, never hidden.
 
 ---
 
-*Maintained by ~C4Chaos / A Centaur Production.*
+*Maintained by ~C4Chaos / Fluffy (A Centaur Production).*
+
+**No Stakes, No Art.**

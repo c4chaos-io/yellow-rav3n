@@ -20,4 +20,4 @@ burn, slow reveal, even in the runtime.
 The launch post carries the EMBER launch as its quoted post:
 the introduction, then the theme, in that order.
 
-— *A Centaur Production*
+— ~C4Chaos / Fluffy (*A Centaur Production*)
