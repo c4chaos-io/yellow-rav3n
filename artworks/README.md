@@ -25,6 +25,11 @@ in finished form.
   superseded the same day: its glowing wing outline on her back
   read cheesy to the author — the flaming kimono replaced it.)
 
+- `ember-teaser-still-v1.jpg` — a frame from EMBER, her first
+  official teaser (2026-10-21): Yellow Rav3n from behind in
+  candlelight, the Wingspan tattoo across her back, her golden
+  kimono fallen from her shoulders. It illustrates the launch
+  record, [MEET YELLOW RAV3N.](../posts/2026-10-21-meet-yellow-rav3n.md).
 - `main-title-teaser-still-v1.jpg` — a frame from the official
   opening credits teaser (2026-10-23): a flame burning inside a
   water droplet against pitch black, rain falling around it.
