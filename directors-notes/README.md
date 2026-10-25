@@ -25,3 +25,9 @@ canon-in-progress.
   the captain's** (2026-10-23). Why this log exists, how it
   differs from the Production Log, and how the notes are written:
   typed on an iPhone, typos and all.
+- [`dirnote_006.md`](dirnote_006.md) — **A theme, paid for**
+  (2026-10-25). The main title theme gets its receipts:
+  subscribed, downloaded, and a written answer from Suno
+  Support, all on one day. (Entries are published
+  selectively, and not always in numerical order: a note
+  whose date is the point appears on its date.)
