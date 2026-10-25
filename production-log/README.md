@@ -7,6 +7,11 @@ cut of the arc the private Production Evolution Log tracks in full;
 entries never carry prompts, lock text, unreleased plans, or
 canon-in-progress.
 
+Its companion log is the [Director's Notes](../directors-notes/):
+this log records what was made; the notes reflect on what the
+director decided and learned. Same days, different jobs — entries
+are never duplicated across the two logs.
+
 ## Entries
 
 - [`prodlog_004.md`](prodlog_004.md) — **A Centaur

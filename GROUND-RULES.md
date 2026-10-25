@@ -46,10 +46,12 @@ It does four jobs:
    evolution, the design locks, the launch. If a copy ever surfaces, this
    repo is where the dates do the talking.
 3. **Official public log.** Moving forward, this is the official blog,
-   production log, and announcement surface for Yellow Rav3n and for
-   A Centaur Production — the same repo-as-blog pattern the author already
-   runs for Trillions Per Second, where open commits are the
-   publishing surface.
+   production log, director's notes, and announcement surface for
+   Yellow Rav3n and for A Centaur Production — the same repo-as-blog
+   pattern the author already runs for Trillions Per Second, where
+   open commits are the publishing surface. The two logs are a pair
+   with different jobs (see §11): the Production Log records, the
+   Director's Notes reflect.
 4. **Document and artwork repository, and master index.** The home for
    public documents and PDFs (production reports, press material,
    slides), the repository of finished public artworks, and the
@@ -326,15 +328,24 @@ ships, and the two are reconciled at each repo session.
 Repo-native publishing follows the same fences as everything else here,
 plus three of its own:
 
-- **One log, named Production Log.** Not two logs. The public making-of
-  record is the Production Log (`production-log/`), the published-depth
-  cut of the private Production Evolution Log. "Devlog" is software
-  language and stays with the TPS repo; Yellow Rav3n is a film
-  production, its channel is A Centaur Production, and one log is all a
-  shoestring, one-phone operation should maintain. Blog posts and
-  announcements are audience-facing and live in `posts/`; the
-  Production Log is the dated making-of record. Different jobs,
-  no overlap, no double-posting.
+- **Two logs, two jobs.** The public record runs as a pair, and the
+  pair is segregated by job. The **Production Log**
+  (`production-log/`) records: what was made, what changed, what
+  shipped, with dates and links — the published-depth cut of the
+  private Production Evolution Log, and still the single making-of
+  record. The **Director's Notes** (`directors-notes/`) reflect:
+  what the director was thinking, decided, and learned along the
+  way, and why — the selective public cut of the private Director's
+  Note Log, each entry published by the author's choice and under
+  the same published-depth fences as the Production Log (no
+  prompts, no unreleased plans, no canon-in-progress; a note about
+  unreleased work waits until the work itself is public). The two
+  logs may cover the same days; they never carry the same words,
+  and an entry is never duplicated across them. "Devlog" is
+  software language and stays with the TPS repo; Yellow Rav3n is a
+  film production, its channel is A Centaur Production. Blog posts
+  and announcements are audience-facing and live in `posts/`.
+  Different jobs, no overlap, no double-posting.
 
 - **Depth, not diary.** The production log records production at published
   depth: what was made, what changed, tool and workflow evolution in
@@ -447,6 +458,15 @@ headed by the Centaur Beer Buddies poster, the production's
 calling card, which makes its first public outing in this
 repo.
 
-*End of ground rules v1.3 — ratified at repo creation, 2026-10-21;
+v1.4 (2026-10-25, amendment by the author's order): the public
+record gains a second log — the Director's Notes
+(`directors-notes/`), the selective public cut of the private
+Director's Note Log; §1 and §11 are amended accordingly (two
+logs, two jobs: the Production Log records, the Director's
+Notes reflect), superseding the one-log wording above for the
+making-of record. First entry, dirnote_001 ("Two logs: the
+ship's and the captain's"), published the same day.
+
+*End of ground rules v1.4 — ratified at repo creation, 2026-10-21;
 amendments v1.1–v1.2 by the author's order the same day;
-v1.3 on 2026-10-23.*
+v1.3 on 2026-10-23; v1.4 on 2026-10-25.*
