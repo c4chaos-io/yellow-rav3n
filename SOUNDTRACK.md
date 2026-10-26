@@ -55,7 +55,10 @@ Something smoldering under ash. Low, slow and patient: the
 sound of heat that refuses to go out.
 *Inspired by "Hysteria" — Muse (from "Absolution," 2003);
 written by Matthew Bellamy, Dominic Howard and Christopher
-Wolstenholme.*
+Wolstenholme. Also inspired by "The Exorcist" (1973),
+through "Tubular Bells" by Mike Oldfield, and by "28 Days
+Later" (2002), through "In the House – In a Heartbeat" by
+John Murphy.*
 
 **9. Black Fire — 3:23**
 The record's darkest weather at full burn. Black flame, massed
