@@ -56,6 +56,9 @@ sound of heat that refuses to go out.
 **9. Black Fire — 3:23**
 The record's darkest weather at full burn. Black flame, massed
 drums, and the motif driven hard enough to glow.
+*Inspired by "Hysteria" — Muse (from "Absolution," 2003);
+written by Matthew Bellamy, Dominic Howard and Christopher
+Wolstenholme.*
 
 **10. Torii Gate — 3:32**
 The threshold. A great gate, a tolling bell, and a motif that
@@ -64,7 +67,7 @@ her world works: with the door open.
 
 ## About the evocations
 
-Three tracks are *evocations*: original compositions that
+Four tracks are *evocations*: original compositions that
 borrow a great song's emotional architecture, never its
 melody, and say so in the open. This house credits the
 original artists wherever their work inspires ours, in the
