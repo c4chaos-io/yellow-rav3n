@@ -20,6 +20,11 @@ and the master index to her episodes on YouTube and Twitter/X.
 
 ## Latest
 
+- 2026-10-26 — **Original soundtrack album:** "Yellow Rav3n
+  Soundtrack" — ten original tracks composed with Suno, every
+  one of them grown from the main title theme. New page:
+  [SOUNDTRACK.md](SOUNDTRACK.md). Listen:
+  https://suno.com/s/A8wUSRtWo8KJIT1Z
 - 2026-10-23 — **A Centaur Production:** the production
   is renamed — YR Production is now A Centaur Production,
   everywhere in this repo. New page: [CENTAUR.md](CENTAUR.md) —
