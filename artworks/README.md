@@ -44,3 +44,10 @@ in finished form.
   a temple bell at the path's edge. Heads
   [SOUNDTRACK.md](../SOUNDTRACK.md) and travels with the
   album announcement.
+
+- `the-wail-teaser-still-v1.jpg` — a frame from THE WAIL, her
+  second official teaser (2026-10-26): young Akira from
+  behind in a plain kimono, standing barefoot in the snow
+  of a burning village street, thatch roofs aflame on both
+  sides, blood in the snow. It illustrates the launch
+  record, [THE WAIL.](../posts/2026-10-26-the-wail.md).
