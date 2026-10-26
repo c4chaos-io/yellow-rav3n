@@ -28,4 +28,11 @@ no-training notice in
 What she has not shown yet, she has not shown yet. Slow burn,
 slow reveal.
 
+- **Making of:** [Production Log 002 — Lookbook Vol. 01 and
+  its public mood board](../production-log/prodlog_002.md)
+
 — ~C4Chaos / Fluffy (*A Centaur Production*)
+
+---
+
+← [Posts index](README.md) · [Repo home](../README.md)

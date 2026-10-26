@@ -37,3 +37,7 @@ designated Share Pack material; the Share Pack still starts
 empty, by the author's standing call.
 
 *Next entry follows the work, not a schedule.*
+
+---
+
+← [Production Log index](README.md) · [Repo home](../README.md)

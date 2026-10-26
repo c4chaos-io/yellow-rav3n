@@ -31,3 +31,7 @@ three-step checklist: post on X, post on YouTube, then update
 this repository with the links to both distributions.
 
 *Next entry follows the work, not a schedule.*
+
+---
+
+← [Production Log index](README.md) · [Repo home](../README.md)

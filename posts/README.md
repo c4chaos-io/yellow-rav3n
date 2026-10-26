@@ -7,6 +7,10 @@ announcements also get a git tag.
 
 ## Entries (newest first)
 
+- [`2026-10-26-the-wail.md`](2026-10-26-the-wail.md)
+  — **THE WAIL.**: the second official teaser, the backstory
+  teaser. EMBER introduced her; this one goes back to the
+  beginning.
 - [`2026-10-23-her-name-now-has-a-theme.md`](2026-10-23-her-name-now-has-a-theme.md)
   — **HER NAME NOW HAS A THEME.**: the official opening credits
   teaser, presenting the original main title theme "Legacy

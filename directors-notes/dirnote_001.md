@@ -34,3 +34,7 @@ here. The kitchen stays in the kitchen. What the kitchen
 *taught* is fair game.
 
 *Next entry follows the work, not a schedule.*
+
+---
+
+← [Director's Notes index](README.md) · [Repo home](../README.md)

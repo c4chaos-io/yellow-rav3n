@@ -21,7 +21,15 @@ burn, slow reveal, even in the runtime.
   ~C4Chaos with Suno; produced by ~C4Chaos / Fluffy (a Centaur
   production). Full theme: https://suno.com/s/buYngVPwqlu78svS
 
+- **Making of:** [Production Log 003 — Legacy: the main
+  title theme](../production-log/prodlog_003.md) ·
+  [Director's Note 006 — A theme, paid for](../directors-notes/dirnote_006.md)
+
 The launch post carries the EMBER launch as its quoted post:
 the introduction, then the theme, in that order.
 
 — ~C4Chaos / Fluffy (*A Centaur Production*)
+
+---
+
+← [Posts index](README.md) · [Repo home](../README.md)

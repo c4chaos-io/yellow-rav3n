@@ -65,3 +65,7 @@ be whoever steals from a guy working alone on his
 iPhone.
 
 *~C4Chaos*
+
+---
+
+← [Director's Notes index](README.md) · [Repo home](../README.md)

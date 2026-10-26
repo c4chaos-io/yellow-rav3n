@@ -25,6 +25,15 @@ canon-in-progress.
   the captain's** (2026-10-23). Why this log exists, how it
   differs from the Production Log, and how the notes are written:
   typed on an iPhone, typos and all.
+- [`dirnote_002.md`](dirnote_002.md) — **A song, a line, a
+  teaser** (2026-10-24). THE WAIL began as a remembered song
+  and one line; serendipity is a production input, and it
+  evaporates if it is not written down.
+- [`dirnote_003.md`](dirnote_003.md) — **Minor tweaks: edit
+  first, regenerate never** (2026-10-25). The fire lesson
+  from THE WAIL's final pass: a minor tweak goes to the
+  edit first, because regeneration re-rolls the whole
+  performance to change one layer.
 - [`dirnote_006.md`](dirnote_006.md) — **A theme, paid for**
   (2026-10-25). The main title theme gets its receipts:
   subscribed, downloaded, and a written answer from Suno
