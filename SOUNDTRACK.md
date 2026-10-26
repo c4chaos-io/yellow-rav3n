@@ -52,6 +52,9 @@ heartbeats slowing into one rhythm. The garden after dark.
 **8. Dark Ember — 2:37**
 Something smoldering under ash. Low, slow and patient: the
 sound of heat that refuses to go out.
+*Inspired by "Hysteria" — Muse (from "Absolution," 2003);
+written by Matthew Bellamy, Dominic Howard and Christopher
+Wolstenholme.*
 
 **9. Black Fire — 3:23**
 The record's darkest weather at full burn. Black flame, massed
@@ -67,7 +70,7 @@ her world works: with the door open.
 
 ## About the evocations
 
-Four tracks are *evocations*: original compositions that
+Five tracks are *evocations*: original compositions that
 borrow a great song's emotional architecture, never its
 melody, and say so in the open. This house credits the
 original artists wherever their work inspires ours, in the
