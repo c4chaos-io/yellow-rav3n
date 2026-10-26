@@ -19,6 +19,8 @@ She hunted a demon. It was waiting for her.
   SLOWED" by itsDRYKO, a hoodtrap remix of Adele's "Set Fire to
   the Rain" (written by Adele Adkins and Fraser T. Smith; Smith
   also original producer).
+- **Making of:** [Production Log 001 — EMBER: the first
+  official teaser](../production-log/prodlog_001.md)
 
 Thirty minutes after the launch, the circle closed: the genesis
 post of January 24, 2023 was quote-posted against this moment —

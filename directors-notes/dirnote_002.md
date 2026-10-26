@@ -5,7 +5,8 @@
 Our second teaser did not start with a storyboard. It
 started with a song I remembered.
 
-Sugar Hiccup's "Five Years" (1995) is a slow burn: humming
+Sugar Hiccup is a Filipino indie band, and their
+"Five Years" (1995) is a slow burn: humming
 that builds, patiently, into wailing. I heard it again in
 the middle of other work, and before there was a teaser
 there was simply the decision that this track had to carry

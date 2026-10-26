@@ -97,8 +97,8 @@ introduction, October 21, 2026.
 [YouTube](https://youtu.be/XXAwEfgfkig)
 
 **12. "Five Years" — Sugar Hiccup**
-*(from "Oracle," 1995; the band's own song — not the David
-Bowie song of the same title)*
+*(a Filipino indie band; from "Oracle," 1995; the band's
+own song — not the David Bowie song of the same title)*
 THE WAIL, the second official teaser: the backstory teaser,
 October 26, 2026. The song came first; the teaser grew out
 of it.

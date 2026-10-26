@@ -24,8 +24,9 @@ conceived, so the finished film shows no bodies. Its
 aftermath is carried by blood on snow, burning houses, and
 a child's performance.
 
-Soundtrack: "Five Years" by Sugar Hiccup (from *Oracle*,
-1995).
+Soundtrack: "Five Years" by Sugar Hiccup, a Filipino
+indie band (from *Oracle*, 1995) — the song this teaser
+grew out of.
 
 **Trivia:** the fire over the climax is not generated. It
 is a filter, laid over the take in the editor, after
