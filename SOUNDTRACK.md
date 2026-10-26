@@ -15,7 +15,7 @@ Find it once and you will hear it everywhere.
 
 ## The tracks
 
-**1. Legacy (Yellow Rav3n Main Title) — 3:19**
+**1. Legacy (Yellow Rav3n Main Title) (Remastered) — 3:19**
 The root of the record, and of the series. A four-note motif on
 shamisen, a heartbeat of taiko underneath. Her name, in music.
 
