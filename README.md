@@ -26,6 +26,9 @@ and the master index to her episodes on YouTube and Twitter/X.
   X: https://x.com/c4chaos/status/2114797028182204897 ·
   YouTube: https://youtu.be/I497hEhz_IQ — announced in
   [posts](posts/2026-10-26-the-wail.md).
+- 2026-10-26 — **Director's Notes:** two entries publish
+  with THE WAIL: [A song, a line, a teaser](directors-notes/dirnote_002.md)
+  and [Minor tweaks: edit first, regenerate never](directors-notes/dirnote_003.md).
 - 2026-10-26 — **Borrowed soundtrack page:** every borrowed
   track from the proof-of-concept shorts, teasers, and music
   video experiments, each credited to its performer, writers,
