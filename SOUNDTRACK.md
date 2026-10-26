@@ -65,7 +65,10 @@ The record's darkest weather at full burn. Black flame, massed
 drums, and the motif driven hard enough to glow.
 *Inspired by "Hysteria" — Muse (from "Absolution," 2003);
 written by Matthew Bellamy, Dominic Howard and Christopher
-Wolstenholme.*
+Wolstenholme. Also inspired by "The Exorcist" (1973),
+through "Tubular Bells" by Mike Oldfield, and by "28 Days
+Later" (2002), through "In the House – In a Heartbeat" by
+John Murphy.*
 
 **10. Torii Gate — 3:32**
 The threshold. A great gate, a tolling bell, and a motif that
