@@ -1,5 +1,7 @@
 # YELLOW RAV3N — ORIGINAL SOUNDTRACK
 
+![Yellow Rav3n Soundtrack — concept art: her silhouette before the Torii Gate, katana down at her side](artworks/soundtrack-concept-art-v1.jpg)
+
 **Eleven tracks. One theme. Every note on this record grows out of
 "Legacy," the Yellow Rav3n main title theme.**
 

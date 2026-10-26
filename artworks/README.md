@@ -36,3 +36,11 @@ in finished form.
   The opening image of the teaser for "Legacy (Yellow Rav3n Main
   Title)"; it illustrates the launch record,
   [HER NAME NOW HAS A THEME.](../posts/2026-10-23-her-name-now-has-a-theme.md).
+- `soundtrack-concept-art-v1.jpg` — the original soundtrack
+  album's concept art (2026-10-26): a torii gate at night lit
+  from the far side, Yellow Rav3n's full-body silhouette
+  before it, katana in one hand pointed down by her side, a
+  river of sakura petals crossing the frame, embers rising,
+  a temple bell at the path's edge. Heads
+  [SOUNDTRACK.md](../SOUNDTRACK.md) and travels with the
+  album announcement.
