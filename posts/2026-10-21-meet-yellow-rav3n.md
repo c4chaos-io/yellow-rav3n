@@ -9,6 +9,10 @@ on an iPhone.
 
 She hunted a demon. It was waiting for her.
 
+![Yellow Rav3n from behind in candlelight, the Wingspan tattoo across her back, her golden kimono fallen from her shoulders — a frame from EMBER, the first official teaser](../artworks/ember-teaser-still-v1.jpg)
+
+*A frame from EMBER, the first official teaser.*
+
 - **The launch post on X:** https://x.com/c4chaos/status/2112911207740952907
 - **On YouTube:** "MEET YELLOW RAV3N" (1:00) — https://youtu.be/XXAwEfgfkig
 - **Soundtrack:** "Set Fire to the Rain (Hoodtrap Mylancore)

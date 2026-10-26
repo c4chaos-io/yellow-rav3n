@@ -15,16 +15,29 @@ of the character, her design, and her story world, in the order it was made.
 **This repo is the official Yellow Rav3n site** (rendered on the web
 via GitHub Pages). There is no other website.
 It is her calling card, her prior art evidence, her official public log
-(blog, production log, announcements), her document and artwork repository,
+(blog, production log, director's notes, announcements), her document and artwork repository,
 and the master index to her episodes on YouTube and Twitter/X.
 
 ## Latest
 
+- 2026-10-26 — **Borrowed soundtrack page:** every borrowed
+  track from the proof-of-concept shorts, teasers, and music
+  video experiments, each credited to its performer, writers,
+  and producer: [BORROWED-SOUNDTRACK.md](BORROWED-SOUNDTRACK.md).
+- 2026-10-26 — **Original soundtrack album:** "Yellow Rav3n
+  Soundtrack" — eleven original tracks composed with Suno, every
+  one of them grown from the main title theme. New page:
+  [SOUNDTRACK.md](SOUNDTRACK.md). Listen:
+  https://suno.com/s/A8wUSRtWo8KJIT1Z
 - 2026-10-23 — **A Centaur Production:** the production
   is renamed — YR Production is now A Centaur Production,
   everywhere in this repo. New page: [CENTAUR.md](CENTAUR.md) —
   what a Centaur is and how this outfit works, headed by the
   Centaur Beer Buddies poster, its first public outing.
+- 2026-10-25 — **Director's Notes open:** a second public log joins
+  the Production Log — the director's own reflective notes
+  (decisions, lessons, discoveries), published selectively. First
+  entry: [Two logs: the ship's and the captain's](directors-notes/dirnote_001.md).
 - 2026-10-23 — **Main Title launch:** "HER NAME NOW HAS A THEME." —
   the official opening credits teaser (1:03), presenting the
   series' original main title theme, "Legacy (Yellow Rav3n Main
@@ -39,7 +52,8 @@ and the master index to her episodes on YouTube and Twitter/X.
   reply to the launch post, opened to celebrate her first official
   teaser: https://x.com/c4chaos/status/2113072492877344794
 - 2026-10-21 — **EMBER launch:** "MEET YELLOW RAV3N." — the official
-  series introduction. https://x.com/c4chaos/status/2112911207740952907
+  series introduction. X: https://x.com/c4chaos/status/2112911207740952907
+  — announced in [posts](posts/2026-10-21-meet-yellow-rav3n.md).
   (New announcements and posts are linked here, newest first.)
 
 > **License:** a three-layer split, mapped in [LICENSE.md](LICENSE.md). Core IP
@@ -109,6 +123,8 @@ are in [GROUND-RULES.md](GROUND-RULES.md).
 - [posts/](posts/README.md) — blog posts and announcements (repo-native, dated); this
   repo is the official communication channel of A Centaur Production
 - [production-log/](production-log/README.md) — the production log, at published depth
+- [directors-notes/](directors-notes/README.md) — the director's notes: the reflective
+  companion log (decisions, lessons, discoveries), published selectively at published depth
 - [documents/](documents/README.md) — public documents, PDFs, and slides (sanitized only)
 - [artworks/](artworks/README.md) — finished public artworks: key art, posters, covers
 - [artifacts/](artifacts/README.md) — the catalogue of her weapons, attire, and gear:
