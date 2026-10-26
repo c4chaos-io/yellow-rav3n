@@ -47,7 +47,8 @@ feint and strike, scored at sword tempo.
 **7. Yozakura — 3:31**
 Night blossom. Lantern light, petals on dark water, and two
 heartbeats slowing into one rhythm. The garden after dark.
-*Inspired by "Wake Me Up" — Evanescence.*
+*Inspired by "Wake Me Up" — Evanescence (from "Fallen,"
+2003); written by Amy Lee, Ben Moody and David Hodges.*
 
 **8. Dark Ember — 2:37**
 Something smoldering under ash. Low, slow and patient: the
