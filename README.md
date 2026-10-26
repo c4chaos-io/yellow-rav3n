@@ -20,6 +20,10 @@ and the master index to her episodes on YouTube and Twitter/X.
 
 ## Latest
 
+- 2026-10-26 — **Borrowed soundtrack page:** every borrowed
+  track from the proof-of-concept shorts, teasers, and music
+  video experiments, each credited to its performer, writers,
+  and producer: [BORROWED-SOUNDTRACK.md](BORROWED-SOUNDTRACK.md).
 - 2026-10-26 — **Original soundtrack album:** "Yellow Rav3n
   Soundtrack" — ten original tracks composed with Suno, every
   one of them grown from the main title theme. New page:
