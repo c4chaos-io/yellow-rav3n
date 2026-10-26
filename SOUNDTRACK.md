@@ -21,6 +21,9 @@ shamisen, a heartbeat of taiko underneath. Her name, in music.
 **2. The Wail — 3:27**
 A grief that arrives like weather. A wordless voice rises over
 snow and ash, keens, and fades back into breath.
+*Inspired by "Five Years" — Sugar Hiccup (from "Oracle,"
+1995), the Filipino indie band whose keening original taught
+this track how to cry. Shoutout across the Pacific.*
 
 **3. Rain — 3:43**
 Fire and rain at war in the same sky. Koto falls like weather
