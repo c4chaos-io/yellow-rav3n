@@ -96,6 +96,15 @@ introduction, October 21, 2026.
 [Post](https://x.com/c4chaos/status/2112911207740952907) ·
 [YouTube](https://youtu.be/XXAwEfgfkig)
 
+**12. "Five Years" — Sugar Hiccup**
+*(from "Oracle," 1995; the band's own song — not the David
+Bowie song of the same title)*
+THE WAIL, the second official teaser: the backstory teaser,
+October 26, 2026. The song came first; the teaser grew out
+of it.
+[Post](https://x.com/c4chaos/status/2114797028182204897) ·
+[YouTube](https://youtu.be/I497hEhz_IQ)
+
 ## Where the borrowed road leads
 
 Three of these artists went on to inspire original tracks of

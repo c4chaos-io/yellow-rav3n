@@ -20,6 +20,12 @@ and the master index to her episodes on YouTube and Twitter/X.
 
 ## Latest
 
+- 2026-10-26 — **THE WAIL launch:** "THE WAIL." — the second
+  official teaser (1:12), the backstory teaser: EMBER
+  introduced her, this one goes back to the beginning.
+  X: https://x.com/c4chaos/status/2114797028182204897 ·
+  YouTube: https://youtu.be/I497hEhz_IQ — announced in
+  [posts](posts/2026-10-26-the-wail.md).
 - 2026-10-26 — **Borrowed soundtrack page:** every borrowed
   track from the proof-of-concept shorts, teasers, and music
   video experiments, each credited to its performer, writers,
@@ -95,6 +101,7 @@ hidden.
 
 | Date | Milestone | Evidence |
 |---|---|---|
+| 2026-10-26 | **THE WAIL — second official teaser.** The backstory teaser (1:12): EMBER introduced Yellow Rav3n as she is today; THE WAIL goes back to the beginning. Soundtrack: "Five Years" by Sugar Hiccup (from *Oracle*, 1995). YouTube: https://youtu.be/I497hEhz_IQ | https://x.com/c4chaos/status/2114797028182204897 |
 | 2026-10-23 | **Main Title launch — "HER NAME NOW HAS A THEME."** The official opening credits teaser (1:03) presenting the series' original main title theme, "Legacy (Yellow Rav3n Main Title)" (composed by ~C4Chaos with Suno; produced by ~C4Chaos / Fluffy; full theme 3:19, teaser uses the first minute). YouTube: https://youtu.be/GLDHR7iKJBI | https://x.com/c4chaos/status/2113647401894572221 |
 | 2026-10-21 | **Fractal circle closed** — quote-post of the 2023 genesis post, 30 minutes after the launch: "She survived her tools, exactly like the post said she would." 1,366 days genesis → launch. | https://x.com/c4chaos/status/2112918845593661532 |
 | 2026-10-21 | **EMBER — first official teaser / series introduction.** Long-form launch post "MEET YELLOW RAV3N." Soundtrack credit: "Set Fire to the Rain (Hoodtrap Mylancore) SLOWED" by itsDRYKO, a hoodtrap remix of Adele's "Set Fire to the Rain" (written by Adele Adkins and Fraser T. Smith; Smith also original producer). | https://x.com/c4chaos/status/2112911207740952907 |

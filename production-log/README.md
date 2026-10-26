@@ -14,6 +14,11 @@ are never duplicated across the two logs.
 
 ## Entries
 
+- [`prodlog_005.md`](prodlog_005.md) — **THE WAIL: the second
+  official teaser** (2026-10-26). The backstory teaser ships
+  on X and YouTube the same day; the aftermath the tools
+  would not render, carried by a child's performance; the
+  fire is a filter, not a generation.
 - [`prodlog_004.md`](prodlog_004.md) — **A Centaur
   Production: the rename** (2026-10-23). YR Production becomes
   A Centaur Production, everywhere; CENTAUR.md lands, headed
