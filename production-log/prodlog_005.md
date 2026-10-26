@@ -37,3 +37,7 @@ Lesson, now a house rule: minor tweaks go to post.
 this repository with the links to both. Three of three.
 
 *Next entry follows the work, not a schedule.*
+
+---
+
+← [Production Log index](README.md) · [Repo home](../README.md)

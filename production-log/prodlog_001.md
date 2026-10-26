@@ -32,3 +32,7 @@ repository created and announced; the splash cover
 set as the repo's face.
 
 *Next entry follows the work, not a schedule.*
+
+---
+
+← [Production Log index](README.md) · [Repo home](../README.md)

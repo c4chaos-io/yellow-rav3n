@@ -32,3 +32,7 @@ pair: the Duffer Brothers, but Centaur Beer Buddies.
 Serendipity, then actually.
 
 *Next entry follows the work, not a schedule.*
+
+---
+
+← [Production Log index](README.md) · [Repo home](../README.md)

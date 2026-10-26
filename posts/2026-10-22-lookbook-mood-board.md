@@ -32,3 +32,7 @@ slow reveal.
   its public mood board](../production-log/prodlog_002.md)
 
 — ~C4Chaos / Fluffy (*A Centaur Production*)
+
+---
+
+← [Posts index](README.md) · [Repo home](../README.md)

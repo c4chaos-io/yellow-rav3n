@@ -29,3 +29,7 @@ The launch post carries the EMBER launch as its quoted post:
 the introduction, then the theme, in that order.
 
 — ~C4Chaos / Fluffy (*A Centaur Production*)
+
+---
+
+← [Posts index](README.md) · [Repo home](../README.md)

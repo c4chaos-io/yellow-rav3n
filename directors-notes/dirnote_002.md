@@ -27,3 +27,7 @@ is easy to lose under schedules and renders. Written down,
 it survives long enough to become a teaser.
 
 *~C4Chaos*
+
+---
+
+← [Director's Notes index](README.md) · [Repo home](../README.md)

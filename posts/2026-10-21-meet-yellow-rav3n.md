@@ -31,3 +31,7 @@ This repository opened the same day, as her official home and
 dated record. Slow burn, slow reveal.
 
 — ~C4Chaos / Fluffy (*A Centaur Production*)
+
+---
+
+← [Posts index](README.md) · [Repo home](../README.md)

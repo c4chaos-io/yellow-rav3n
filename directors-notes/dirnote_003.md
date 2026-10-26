@@ -26,3 +26,7 @@ you already paid for, in time and in tokens. Treat it like
 one.
 
 *~C4Chaos*
+
+---
+
+← [Director's Notes index](README.md) · [Repo home](../README.md)
