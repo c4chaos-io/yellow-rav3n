@@ -11,6 +11,7 @@ album carries in some form: stated, stretched, haunted, hidden.
 Find it once and you will hear it everywhere.
 
 **Listen:** [Yellow Rav3n Soundtrack on Suno](https://suno.com/s/A8wUSRtWo8KJIT1Z)
+**The artist on Suno:** [~C4Chaos](https://suno.com/@c4chaos)
 
 ## The tracks
 
