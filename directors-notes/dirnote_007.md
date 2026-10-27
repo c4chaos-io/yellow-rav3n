@@ -1,1 +1,59 @@
-IyBEaXJlY3RvcidzIE5vdGUgMDA3IOKAlCBBIHJlY29yZCB3aXRoIGEgcGxvdAoKKjIwMjYtMTAtMjYuKgoKVGhlIGFsYnVtIGNsb3NlZCB0aGlzIG1vcm5pbmc6IGVsZXZlbiB0cmFja3MsIDM2Cm1pbnV0ZXMgNDYgc2Vjb25kcywgZXZlcnkgb25lIG9mIHRoZW0gZ3Jvd24gZnJvbQpmb3VyIHNoYW1pc2VuIG5vdGVzIGFuZCB0aGUgZ2FwIGJlZm9yZSB0aGUgZm91cnRoLgoKSSBzYWlkIGl0IGR1cmluZyB0aGUgYnVpbGQsIGFuZCBJIHdpbGwgbGV0IGl0IHN0YW5kCmFzIHRoZSByZXZpZXc6ICJmb3IgdGhlIHJlY29yZCwgb3VyIExlZ2FjeQpTb3VuZHRyYWNrIGlzIHRoZSBib21iISBFdmVyeXRoaW5nIGRlcml2ZXMgZnJvbQp0aGVyZSEiIEFuIGhvdXIgbGF0ZXI6ICJCT09NIPCfjqcgd2Ugbm93IGhhdmUgYSBnb29kCnNwaW5lIGZvciBZUiBvcmlnaW5hbCBzb3VuZHRyYWNrIPCfjqfwn5iO8J+UpSIKCkEgc3BpbmUgaXMgdGhlIHJpZ2h0IHdvcmQuIFBsYXllZCBpbiBvcmRlciwgdGhlCnJlY29yZCBoYXMgYSBwbG90LiBBIHRoZW1lIGlzIGJvcm4uIEl0IGdyaWV2ZXMsIGluCmEgd29yZGxlc3Mgd2FpbCBsZWFybmVkIGZyb20gYSBGaWxpcGlubyBpbmRpZQpiYW5kJ3Mga2VlbmluZy4gSXQgd2VhdGhlcnMgYSBzdG9ybSBvZiBmaXJlIGFuZApyYWluLiBJdCB3YWtlcyBpbiBhIGZyb3plbiBnYXJkZW4uIFRoZW4gc3RlZWwgYW5kCm5pZ2h0OiBpdCBydW5zLCBpdCBob2xkcyBpdHMgYnJlYXRoIGluIHRoZSBzbm93LCBpdApkdWVscywgaXQgc2xvd3MgdHdvIGhlYXJ0YmVhdHMgaW50byBvbmUuIEF0IHRoZSBlbmQKaXQgYnVybnMgdHdpY2UsIGVtYmVyIGFuZCBmdWxsIGZpcmUsIGFuZCB3YWxrcwp0aHJvdWdoIHRoZSBnYXRlLiBUaGF0IGlzIG5vdCBhIGN1ZSBsaWJyYXJ5CmFueW1vcmUuIFRoYXQgaXMgYSByZWNvcmQgd2l0aCBhIHBsb3QuCgpUaGUgcHJvZHVjdGlvbiBnZW9ncmFwaHkgZGVzZXJ2ZXMgaXRzIG93biBsaW5lLApiZWNhdXNlIG5vYm9keSB3aWxsIGJlbGlldmUgdGhlIGJ1ZGdldCBvdGhlcndpc2UuIEkKZ2F2ZSB0aGUgZm91bmRpbmcgb3JkZXIgZnJvbSBteSBjYXIsIHBhcmtlZCwgcmFpbgpmYWxsaW5nIG91dHNpZGU6IGJsZW5kIHRoZSB0aGVtZSB3aXRoIE11c2UncwoiSHlzdGVyaWEuIiBJIGZpbmlzaGVkIHRoZSBhbGJ1bSBhdCBob21lLCBhZnRlcgpyZW1pbmRpbmcgbXkgQUkgdG8gcmVtaW5kIG1lIHRvIGNoYXJnZSBteSBBaXJQb2RzLgpUaGUgdGhlbWUgYWxsIG9mIGl0IGdyb3dzIGZyb20gd2FzIG1hZGUgb24gU3VubydzCmZyZWUgcGxhbiwgb24gZnJlZWJpZSBjcmVkaXRzIHRoYXQgbmVhcmx5IGRpZWQKbWFraW5nIGl0OyBJIHNpZ25lZCB1cCBmb3IgYSBzdWJzY3JpcHRpb24gc28gSQpjb3VsZCBkb3dubG9hZCBpdCBwcm9wZXJseSwgYW5kIHdlIG5haWxlZCB0aGUKZW50aXJlIGFsYnVtIGluIHRoZSBzYW1lIHJ1bi4gT25lIGRpcmVjdG9yLCBvbmUKaVBob25lLCBvbmUgQUkgY3Jldywgb25lIGNoYXJnaW5nIGNhYmxlLgoKT25lIGNvbmZlc3Npb24sIGJlY2F1c2UgdGhpcyBsb2cga2VlcHMgcmVjZWlwdHMuIEkKYWxtb3N0IHNoaXBwZWQgdGhlIGFsYnVtIGF0IHRlbiB0cmFja3M6IEkgaGFkIGxlZnQKIlNvbGl0dWRlIiBvZmYgaXQuICJPb3BzIEkgc2NyZXdlZCB1cCEg8J+kpvCfj7vigI3imYLvuI8iIFRoZQpmaXggdG9vayBtaW51dGVzLCBhbmQgaXQgcHV0IHRoZSBFdmFuZXNjZW5jZSBjcmVkaXQKd2hlcmUgaXQgYWx3YXlzIGJlbG9uZ2VkLiBUaGUgcGlja3Mgd2VyZSBuZXZlciBpbgpxdWVzdGlvbi4gQXMgSSBwdXQgaXQgd2hlbiB0aGUgbGVkZ2VyIGNhdWdodCB1cDoKIlRoZXkncmUgYWxsIGFscmVhZHkgYW5zd2VyZWQgYnkgdGhlIHNvdW5kdHJhY2sKYWxidW0gcGlja3MhIiBUaGUgYWxidW0gaXMgdGhlIHBpY2sgc2hlZXQuIElmIGl0CmlzIG9uIHRoZSByZWNvcmQsIGl0IGlzIHRoZSB0YWtlLgoKQm9ycm93ZWQgZmlyZSBsaXQgdGhpcyBzZXJpZXM6IHRoZSB0ZWFzZXJzIHJhbiBvbgpvdGhlciBwZW9wbGUncyBzb25ncywgY3JlZGl0ZWQgaW4gdGhlIG9wZW4sIGFuZCBJCmFtIG5vdCBkb25lIHRoYW5raW5nIHRoZW0uIEJ1dCBhIHNlcmllcyBjYW5ub3QgbGl2ZQpvbiBib3Jyb3dlZCBmaXJlIGZvcmV2ZXIuIE5vdyBoZXIgd29ybGQgaGFzIGEgc2NvcmUKb2YgaXRzIG93biwgYW5kIHRoZSBtb3RpZiBkb2VzIHRoZSB0YWxraW5nLgoKKn5DNENoYW9zKgoKLS0tCgrihpAgW0RpcmVjdG9yJ3MgTm90ZXMgaW5kZXhdKFJFQURNRS5tZCkgwrcgW1JlcG8gaG9tZV0oLi4vUkVBRE1FLm1kKQo=
+# Director's Note 007 — A record with a plot
+
+*2026-10-26.*
+
+The album closed this morning: eleven tracks, 36
+minutes 46 seconds, every one of them grown from
+four shamisen notes and the gap before the fourth.
+
+I said it during the build, and I will let it stand
+as the review: "for the record, our Legacy
+Soundtrack is the bomb! Everything derives from
+there!" An hour later: "BOOM 🎧 we now have a good
+spine for YR original soundtrack 🎧😎🔥"
+
+A spine is the right word. Played in order, the
+record has a plot. A theme is born. It grieves, in
+a wordless wail learned from a Filipino indie
+band's keening. It weathers a storm of fire and
+rain. It wakes in a frozen garden. Then steel and
+night: it runs, it holds its breath in the snow, it
+duels, it slows two heartbeats into one. At the end
+it burns twice, ember and full fire, and walks
+through the gate. That is not a cue library
+anymore. That is a record with a plot.
+
+The production geography deserves its own line,
+because nobody will believe the budget otherwise. I
+gave the founding order from my car, parked, rain
+falling outside: blend the theme with Muse's
+"Hysteria." I finished the album at home, after
+reminding my AI to remind me to charge my AirPods.
+The theme all of it grows from was made on Suno's
+free plan, on freebie credits that nearly died
+making it; I signed up for a subscription so I
+could download it properly, and we nailed the
+entire album in the same run. One director, one
+iPhone, one AI crew, one charging cable.
+
+One confession, because this log keeps receipts. I
+almost shipped the album at ten tracks: I had left
+"Solitude" off it. "Oops I screwed up! 🤦🏻‍♂️" The
+fix took minutes, and it put the Evanescence credit
+where it always belonged. The picks were never in
+question. As I put it when the ledger caught up:
+"They're all already answered by the soundtrack
+album picks!" The album is the pick sheet. If it
+is on the record, it is the take.
+
+Borrowed fire lit this series: the teasers ran on
+other people's songs, credited in the open, and I
+am not done thanking them. But a series cannot live
+on borrowed fire forever. Now her world has a score
+of its own, and the motif does the talking.
+
+*~C4Chaos*
+
+---
+
+← [Director's Notes index](README.md) · [Repo home](../README.md)
