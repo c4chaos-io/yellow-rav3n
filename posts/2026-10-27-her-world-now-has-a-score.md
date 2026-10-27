@@ -20,6 +20,11 @@ album, carrying the Wingspan Kamon emblem.*
 
 - **The announcement on X:**
   https://x.com/c4chaos/status/2115094586075107676
+- **Quoted post:** the Main Title launch, "HER NAME NOW HAS
+  A THEME." (2026-10-23) —
+  https://x.com/c4chaos/status/2113647401894572221
+- **Repo links self-reply (2026-10-27, 07:54 PDT):**
+  https://x.com/c4chaos/status/2115094809392329203
 - **Listen:** [Yellow Rav3n Soundtrack on Suno](https://suno.com/s/A8wUSRtWo8KJIT1Z)
 - **The artist on Suno:** [~C4Chaos](https://suno.com/@c4chaos)
 - **The album, track by track:** [SOUNDTRACK.md](../SOUNDTRACK.md)
@@ -27,7 +32,8 @@ album, carrying the Wingspan Kamon emblem.*
   [BORROWED-SOUNDTRACK.md](../BORROWED-SOUNDTRACK.md)
 
 The post carries the Suno links in its body and points
-below to the two repo pages above.
+below to the two repo pages above; the self-reply carries
+them under "#YellowRav3n GitHub Repo:".
 
 — ~C4Chaos / Fluffy (*A Centaur Production*)
 
