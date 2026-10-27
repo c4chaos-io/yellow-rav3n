@@ -30,6 +30,10 @@ album, carrying the Wingspan Kamon emblem.*
 - **The album, track by track:** [SOUNDTRACK.md](../SOUNDTRACK.md)
 - **The borrowed years, fully credited:**
   [BORROWED-SOUNDTRACK.md](../BORROWED-SOUNDTRACK.md)
+- **Making of:** [Production Log 007 — Yellow Rav3n
+  Soundtrack: the album](../production-log/prodlog_007.md) ·
+  [Director's Note 007 — A record with a
+  plot](../directors-notes/dirnote_007.md)
 
 The post carries the Suno links in its body and points
 below to the two repo pages above; the self-reply carries
