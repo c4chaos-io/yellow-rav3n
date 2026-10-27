@@ -40,3 +40,9 @@ canon-in-progress.
   Support, all on one day. (Entries are published
   selectively, and not always in numerical order: a note
   whose date is the point appears on its date.)
+- [`dirnote_007.md`](dirnote_007.md) — **A record with
+  a plot** (2026-10-26). The soundtrack album closes:
+  eleven tracks with a plot, briefed from a parked car
+  in the rain, finished at home on AirPods that needed
+  a charging reminder, on a subscription taken out to
+  rescue a free-plan theme.
