@@ -1,4 +1,4 @@
-![Yellow Rav3n — splash cover: Yellow Rav3n in the rain before a torii gate, her sakura kimono slowly burning](artworks/splash-cover-v3.jpg)
+![Yellow Rav3n — splash cover: Yellow Rav3n in the rain before red torii gates, her sakura kimono slowly burning, the Wingspan Kamon crest under the title](artworks/splash-cover-v6.jpg)
 
 # YELLOW RAV3N
 
@@ -20,6 +20,12 @@ and the master index to her episodes on YouTube and Twitter/X.
 
 ## Latest
 
+- 2026-10-26 — **New splash cover:** v6 heads this
+  README — a regenerated plate: Yellow Rav3n in the rain
+  before red torii gates, the Wingspan Kamon crest under
+  the title, and the byline in its current form,
+  ~C4Chaos / Fluffy (A Centaur Production). Logged in
+  [production-log/prodlog_006.md](production-log/prodlog_006.md).
 - 2026-10-26 — **THE WAIL launch:** "THE WAIL." — the second
   official teaser (1:12), the backstory teaser: EMBER
   introduced her, this one goes back to the beginning.

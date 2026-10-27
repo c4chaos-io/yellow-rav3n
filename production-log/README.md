@@ -14,6 +14,11 @@ are never duplicated across the two logs.
 
 ## Entries
 
+- [`prodlog_006.md`](prodlog_006.md) — **Splash cover v6:
+  the torii goes red** (2026-10-26). A full regeneration
+  replaces the launch splash: red gates in the plate, the
+  Wingspan Kamon crest aboard, the byline caught up with
+  the rename — after two edit attempts were rejected.
 - [`prodlog_005.md`](prodlog_005.md) — **THE WAIL: the second
   official teaser** (2026-10-26). The backstory teaser ships
   on X and YouTube the same day; the aftermath the tools
