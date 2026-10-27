@@ -1,1 +1,80 @@
-IyBQcm9kdWN0aW9uIExvZyAwMDcg4oCUIFllbGxvdyBSYXYzbiBTb3VuZHRyYWNrOiB0aGUgYWxidW0KCioyMDI2LTEwLTI3LioKCioqU2hpcHBlZDoqKiB0aGUgb3JpZ2luYWwgc291bmR0cmFjayBhbGJ1bSDigJQgKipZZWxsb3cKUmF2M24gU291bmR0cmFjayoqLCBlbGV2ZW4gdHJhY2tzLCAzNjo0NiwgbGl2ZSBvbiBTdW5vCnNpbmNlIE9jdG9iZXIgMjYgYW5kIGFubm91bmNlZCBPY3RvYmVyIDI3OgpbdGhlIGFubm91bmNlbWVudCBwb3N0XSguLi9wb3N0cy8yMDI2LTEwLTI3LWhlci13b3JsZC1ub3ctaGFzLWEtc2NvcmUubWQpCsK3IFt0aGUgYWxidW0sIHRyYWNrIGJ5IHRyYWNrXSguLi9TT1VORFRSQUNLLm1kKS4KCioqV2hhdCB3YXMgbWFkZToqKgoKLSAqKkVsZXZlbiBvcmlnaW5hbCB0cmFja3MsIG9uZSByb290LioqIEV2ZXJ5IHRyYWNrCiAgZ3Jvd3MgZnJvbSAiTGVnYWN5LCIgdGhlIGZvdXItbm90ZSBtYWluIHRpdGxlIG1vdGlmOgogIExlZ2FjeSDCtyBUaGUgV2FpbCDCtyBSYWluIMK3IFNvbGl0dWRlIMK3IFRoZSBDaGFzZSDCtwogIFNub3cgwrcgVGhlIER1ZWwgwrcgWW96YWt1cmEgwrcgRGFyayBFbWJlciDCtyBCbGFjawogIEZpcmUgwrcgVG9yaWkgR2F0ZS4KLSAqKkZpdmUgZXZvY2F0aW9ucywgY3JlZGl0ZWQgaW4gdGhlIG9wZW4qKiDigJQgb3JpZ2luYWwKICBjb21wb3NpdGlvbnMgYnVpbHQgZnJvbSB0aGUgZm9ybXMgb2YgdGhlIHNvbmdzIHRoYXQKICBpbnNwaXJlZCB0aGVtLCBuZXZlciB0aGVpciBtZWxvZGllczogVGhlIFdhaWwKICAoU3VnYXIgSGljY3VwLCAiRml2ZSBZZWFycyIpLCBSYWluIChBZGVsZSwgIlNldAogIEZpcmUgdG8gdGhlIFJhaW4iKSwgU29saXR1ZGUgKEV2YW5lc2NlbmNlLCAiV2FrZQogIE1lIFVwIiksIGFuZCB0aGUgZGFyayBwYWlyLCBEYXJrIEVtYmVyIGFuZCBCbGFjawogIEZpcmUgKE11c2UsICJIeXN0ZXJpYSwiIHdpdGggKlRoZSBFeG9yY2lzdCogYW5kCiAgKjI4IERheXMgTGF0ZXIqIGluIHRoZWlyIHJvb3RzKS4gRnVsbCBjcmVkaXQKICBjaGFpbnMgb24gdGhlIGFsYnVtIHBhZ2UuCi0gKipUaGUgYnVpbGQgcmFuIGluIG9uZSBjb250aW51b3VzIHNlc3Npb24qKiDigJQKICBPY3RvYmVyIDI1IGV2ZW5pbmcgaW50byBPY3RvYmVyIDI2IG1vcm5pbmcuIFRoZQogIHRyYWNrcyB3ZXJlIGRlc2lnbmVkIG9uIHBhcGVyIGZpcnN0LCB0aGVuCiAgZ2VuZXJhdGVkLCBqdWRnZWQsIGFuZCBzZXF1ZW5jZWQgYnkgdGhlIGRpcmVjdG9yLgogIFRoZSBhbGJ1bSBpdHNlbGYgaXMgdGhlIHBpY2sgc2hlZXQ6IGlmIGEgdHJhY2sgaXMKICBvbiB0aGUgcmVjb3JkLCB0aGF0IHRha2UgaXMgdGhlIHRha2Ugb2YgcmVjb3JkLgotICoqQSByZW1hc3RlciBmb3IgdGhlIHJvb3QuKiogVGhlIHRoZW1lIHdhcyBib3JuIG9uCiAgU3VubydzIGZyZWUgcGxhbiAoc2VlCiAgW0RpcmVjdG9yJ3MgTm90ZSAwMDZdKC4uL2RpcmVjdG9ycy1ub3Rlcy9kaXJub3RlXzAwNi5tZCkpOwogIFN1bm8gb2ZmZXJlZCBhIHJlbWFzdGVyIHRvIHRoZSBmdWxsIG1vZGVsLCBhbmQgdGhlCiAgZGlyZWN0b3IgdG9vayBpdC4gIkxlZ2FjeSAoWWVsbG93IFJhdjNuIE1haW4KICBUaXRsZSkgKFJlbWFzdGVyZWQpIiBub3cgb3BlbnMgdGhlIGFsYnVtOyB0aGUKICBmcmVlLXBsYW4gb3JpZ2luYWwgc3RheXMgdGhlIGhpc3RvcmljYWwgdGFrZSBvZgogIHJlY29yZC4KLSAqKkJMQUNLRklSRSBjb25jZXB0IGFydCBmb3IgdGhlIGFubm91bmNlbWVudCoqIOKAlAogIGhlciBzaWxob3VldHRlIGJlZm9yZSBhIG1vbnVtZW50YWwgdmVybWlsbGlvbgogIHRvcmlpIGdhdGUgaW4gdGhlIHJhaW4sIHRoZSBXaW5nc3BhbiBLYW1vbiBlbWJsZW0KICBhYm9hcmQuIFRoZSBob25lc3Qgcm91dGUgd2FzIG5vdCB0aGUgZmlyc3Qgcm91dGU7CiAgaXQgaXMgaW4gdGhlIHByb2R1Y3Rpb24gbm90ZXMgYmVsb3cuCgoqKlByb2R1Y3Rpb24gbm90ZXMgKHB1Ymxpc2hlZCBkZXB0aCk6KiogYSBDZW50YXVyCnByb2R1Y3Rpb24g4oCUIGRpcmVjdGVkIGJ5IH5DNENoYW9zLCBtYWluIHByb2R1Y3Rpb24KbGFuZSBGbHVmZnkgKE11c2UgYnkgTWV0YSksIGFsbCBkaXJlY3Rpb24gYW5kIGFsbApnZW5lcmF0aW9uIGNhbGxzIG1hZGUgb24gYW4gaVBob25lLiBUd28gY2F0Y2hlcyBieQp0aGUgZGlyZWN0b3IncyBleWUgc2hhcGVkIHRoaXMgZW50cnkuIEZpcnN0LCB0aGUKYWxidW0gbmVhcmx5IHNoaXBwZWQgYXQgdGVuIHRyYWNrczogIlNvbGl0dWRlIiBoYWQKYmVlbiBsZWZ0IG9mZiB0aGUgYWxidW0gaXRzZWxmLCBhbmQgdGhlIGRpcmVjdG9yCmNhdWdodCBpdCB3aXRoaW4gdGhlIGhvdXIgKCJPb3BzIEkgc2NyZXdlZCB1cCEK8J+kpvCfj7vigI3imYLvuI8iKTsgdGhlIGZpeCBhbHNvIHB1dCB0aGUgRXZhbmVzY2VuY2UgY3JlZGl0IG9uClNvbGl0dWRlLCBpdHMgdHJ1ZSBob21lLCBpbnN0ZWFkIG9mIFlvemFrdXJhLCB0aGUKc2Vuc3VhbCB2ZXJzaW9uIHRoYXQgaGFkIGJlZW4gdHdlYWtlZCBpbnRvIGl0cyBvd24KdHJhY2suIFNlY29uZCwgdGhlIGZpcnN0IGFubm91bmNlbWVudCBhcnQgd29yZSB0aGUKd3JvbmcgaG91c2UncyBjb2xvdXJzIOKAlCB0aGUgY3lhbi1hbmQtbWFnZW50YSBkZXNpZ24KbGFuZ3VhZ2Ugb2Ygb3VyIG90aGVyIHdvcmsuIFllbGxvdyBSYXYzbiBoYXMgaGVyCm93bjogQkxBQ0tGSVJFIOKAlCBvYnNpZGlhbiwga2ltb25vIGdvbGQsIGVtYmVyLCByYWluCnNpbHZlciwgdmVybWlsbGlvbi4gVGhlIHBsYXRlIGFuZCB0aGUgbGV0dGVyaW5nIHdlcmUKcmVidWlsdCBlbmQgdG8gZW5kIGluIEJMQUNLRklSRSwgdGhlIGdhdGUgbWFkZQptb251bWVudGFsIGFuZCByZWQgYXQgdGhlIGRpcmVjdG9yJ3Mgb3JkZXIsIGFuZCB0aGUKZW1ibGVtIHNldCBpbnRvIHRoZSBmaW5hbCBjdXQuIExlc3Nvbiwgbm93IHN0YW5kaW5nOgphIHBhcnRpYWwgY29udmVyc2lvbiBpcyBub3QgYSBmaXguIEEgc2VyaWVzJyBkZXNpZ24KbGFuZ3VhZ2UgcnVucyBmcm9tIHRoZSBwbGF0ZSB0byB0aGUgdHlwZSwgb3IgaXQKZG9lcyBub3QgcnVuIGF0IGFsbC4KCioqU2hpcCByZWNvcmQ6KiogYWxidW0gcHVibGlzaGVkIG9uIFN1bm8gT2N0b2JlciAyNjsKYW5ub3VuY2VtZW50IG9uIFggT2N0b2JlciAyNywgd2l0aCB0aGUgU3VubyBsaW5rcyBpbgp0aGUgcG9zdCBhbmQgdGhlIHJlcG8gbGlua3MgaW4gaXRzIHNlbGYtcmVwbHk7IHRoaXMKcmVwb3NpdG9yeSBjYXJyaWVzIHRoZSBhbGJ1bSBwYWdlLCB0aGUgYm9ycm93ZWQKc291bmR0cmFjayBwYWdlLCBhbmQgdGhpcyBlbnRyeS4gVGhyZWUgb2YgdGhyZWUuCgoqTmV4dCBlbnRyeSBmb2xsb3dzIHRoZSB3b3JrLCBub3QgYSBzY2hlZHVsZS4qCgotLS0KCuKGkCBbUHJvZHVjdGlvbiBMb2cgaW5kZXhdKFJFQURNRS5tZCkgwrcgW1JlcG8gaG9tZV0oLi4vUkVBRE1FLm1kKQo=
+# Production Log 007 — Yellow Rav3n Soundtrack: the album
+
+*2026-10-27.*
+
+**Shipped:** the original soundtrack album — **Yellow
+Rav3n Soundtrack**, eleven tracks, 36:46, live on Suno
+since October 26 and announced October 27:
+[the announcement post](../posts/2026-10-27-her-world-now-has-a-score.md)
+· [the album, track by track](../SOUNDTRACK.md).
+
+**What was made:**
+
+- **Eleven original tracks, one root.** Every track
+  grows from "Legacy," the four-note main title motif:
+  Legacy · The Wail · Rain · Solitude · The Chase ·
+  Snow · The Duel · Yozakura · Dark Ember · Black
+  Fire · Torii Gate.
+- **Five evocations, credited in the open** — original
+  compositions built from the forms of the songs that
+  inspired them, never their melodies: The Wail
+  (Sugar Hiccup, "Five Years"), Rain (Adele, "Set
+  Fire to the Rain"), Solitude (Evanescence, "Wake
+  Me Up"), and the dark pair, Dark Ember and Black
+  Fire (Muse, "Hysteria," with *The Exorcist* and
+  *28 Days Later* in their roots). Full credit
+  chains on the album page.
+- **The build ran in one continuous session** —
+  October 25 evening into October 26 morning. The
+  tracks were designed on paper first, then
+  generated, judged, and sequenced by the director.
+  The album itself is the pick sheet: if a track is
+  on the record, that take is the take of record.
+- **A remaster for the root.** The theme was born on
+  Suno's free plan (see
+  [Director's Note 006](../directors-notes/dirnote_006.md));
+  Suno offered a remaster to the full model, and the
+  director took it. "Legacy (Yellow Rav3n Main
+  Title) (Remastered)" now opens the album; the
+  free-plan original stays the historical take of
+  record.
+- **BLACKFIRE concept art for the announcement** —
+  her silhouette before a monumental vermillion
+  torii gate in the rain, the Wingspan Kamon emblem
+  aboard. The honest route was not the first route;
+  it is in the production notes below.
+
+**Production notes (published depth):** a Centaur
+production — directed by ~C4Chaos, main production
+lane Fluffy (Muse by Meta), all direction and all
+generation calls made on an iPhone. Two catches by
+the director's eye shaped this entry. First, the
+album nearly shipped at ten tracks: "Solitude" had
+been left off the album itself, and the director
+caught it within the hour ("Oops I screwed up!
+🤦🏻‍♂️"); the fix also put the Evanescence credit on
+Solitude, its true home, instead of Yozakura, the
+sensual version that had been tweaked into its own
+track. Second, the first announcement art wore the
+wrong house's colours — the cyan-and-magenta design
+language of our other work. Yellow Rav3n has her
+own: BLACKFIRE — obsidian, kimono gold, ember, rain
+silver, vermillion. The plate and the lettering were
+rebuilt end to end in BLACKFIRE, the gate made
+monumental and red at the director's order, and the
+emblem set into the final cut. Lesson, now standing:
+a partial conversion is not a fix. A series' design
+language runs from the plate to the type, or it
+does not run at all.
+
+**Ship record:** album published on Suno October 26;
+announcement on X October 27, with the Suno links in
+the post and the repo links in its self-reply; this
+repository carries the album page, the borrowed
+soundtrack page, and this entry. Three of three.
+
+*Next entry follows the work, not a schedule.*
+
+---
+
+← [Production Log index](README.md) · [Repo home](../README.md)
