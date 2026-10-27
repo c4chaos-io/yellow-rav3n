@@ -7,6 +7,10 @@ announcements also get a git tag.
 
 ## Entries (newest first)
 
+- [`2026-10-27-her-world-now-has-a-score.md`](2026-10-27-her-world-now-has-a-score.md)
+  — **HER WORLD NOW HAS A SCORE.**: the original
+  soundtrack album announcement — eleven tracks, one
+  theme, and the making-of comedy included.
 - [`2026-10-26-the-wail.md`](2026-10-26-the-wail.md)
   — **THE WAIL.**: the second official teaser, the backstory
   teaser. EMBER introduced her; this one goes back to the

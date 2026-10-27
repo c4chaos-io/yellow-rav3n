@@ -20,6 +20,15 @@ and the master index to her episodes on YouTube and Twitter/X.
 
 ## Latest
 
+- 2026-10-27 — **Original soundtrack album announced:**
+  "HER WORLD NOW HAS A SCORE." — the eleven-track
+  *Yellow Rav3n Soundtrack* gets its public announcement,
+  with the BLACKFIRE Torii Gate art and the Suno links in
+  the post. X:
+  https://x.com/c4chaos/status/2115094586075107676 —
+  announced in
+  [posts](posts/2026-10-27-her-world-now-has-a-score.md).
+  Listen: https://suno.com/s/A8wUSRtWo8KJIT1Z
 - 2026-10-26 — **New splash cover:** v6 heads this
   README — a regenerated plate: Yellow Rav3n in the rain
   before red torii gates, the Wingspan Kamon crest under
