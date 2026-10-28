@@ -7,6 +7,11 @@ announcements also get a git tag.
 
 ## Entries (newest first)
 
+- [`2026-10-28-her-calling-card-comes-with-receipts.md`](2026-10-28-her-calling-card-comes-with-receipts.md)
+  — **HER CALLING CARD COMES WITH RECEIPTS.**: the
+  official repo announcement — the site introduces
+  itself, with the Production Logs and Director's
+  Notes in the spotlight.
 - [`2026-10-27-her-world-now-has-a-score.md`](2026-10-27-her-world-now-has-a-score.md)
   — **HER WORLD NOW HAS A SCORE.**: the original
   soundtrack album announcement — eleven tracks, one

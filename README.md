@@ -20,6 +20,14 @@ and the master index to her episodes on YouTube and Twitter/X.
 
 ## Latest
 
+- 2026-10-28 — **Official repo announcement:**
+  "HER CALLING CARD COMES WITH RECEIPTS." — the repo
+  announces itself: her official site, calling card,
+  and dated record, with the Production Logs and the
+  Director's Notes in the spotlight. X:
+  https://x.com/c4chaos/status/2115450602687967365 —
+  announced in
+  [posts](posts/2026-10-28-her-calling-card-comes-with-receipts.md).
 - 2026-10-27 — **Original soundtrack album announced:**
   "HER WORLD NOW HAS A SCORE." — the eleven-track
   *Yellow Rav3n Soundtrack* gets its public announcement,
