@@ -7,6 +7,20 @@ announcements also get a git tag.
 
 ## Entries (newest first)
 
+- [`2026-10-30-the-little-blade-holds.md`](2026-10-30-the-little-blade-holds.md)
+  — **THE LITTLE BLADE HOLDS.**: the kaiken kata proof
+  of concept — her dagger art in motion, and a proof of
+  the Centaur methodology and the SNAIL protocol
+  underneath it.
+- [`2026-10-28-her-calling-card-comes-with-receipts.md`](2026-10-28-her-calling-card-comes-with-receipts.md)
+  — **HER CALLING CARD COMES WITH RECEIPTS.**: the
+  official repo announcement — the site introduces
+  itself, with the Production Logs and Director's
+  Notes in the spotlight.
+- [`2026-10-27-her-world-now-has-a-score.md`](2026-10-27-her-world-now-has-a-score.md)
+  — **HER WORLD NOW HAS A SCORE.**: the original
+  soundtrack album announcement — eleven tracks, one
+  theme, and the making-of comedy included.
 - [`2026-10-26-the-wail.md`](2026-10-26-the-wail.md)
   — **THE WAIL.**: the second official teaser, the backstory
   teaser. EMBER introduced her; this one goes back to the

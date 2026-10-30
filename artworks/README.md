@@ -15,15 +15,27 @@ in finished form.
 
 ## Residents
 
-- `splash-cover-v3.jpg` — the repo splash cover (2026-10-21): Yellow
-  Rav3n in the rain before a torii gate, right of frame, her sakura
-  kimono slowly burning — flames crawling the cloth, ember cracks,
-  smoke — with no wing shape anywhere; the official wordmark
-  lettering and the series tagline sit in the dark left of the
-  frame, clear of her face. It heads the main README. (v1
-  superseded the same day: its tagline crossed her face. v2
-  superseded the same day: its glowing wing outline on her back
-  read cheesy to the author — the flaming kimono replaced it.)
+- `splash-cover-v6.jpg` — the repo splash cover (2026-10-26):
+  Yellow Rav3n in the rain before a row of red torii gates,
+  right of frame, her sakura kimono slowly burning — flames
+  crawling the cloth, ember cracks, smoke — with no wing shape
+  anywhere; the official wordmark lettering and the series
+  tagline sit in the dark left of the frame, clear of her face,
+  the Wingspan Kamon crest (gold foil on obsidian) beneath
+  them, and the byline in its Centaur-Director form,
+  ~C4Chaos / Fluffy (A Centaur Production). It heads the main
+  README. A full regeneration: the red gates are in the plate,
+  not painted on (see [`prodlog_006.md`](../production-log/prodlog_006.md)).
+
+- `splash-cover-v3.jpg` — the launch splash cover (2026-10-21,
+  superseded by v6 on 2026-10-26 and retained as the splash of
+  record for the launch): Yellow Rav3n in the rain before a
+  torii gate, right of frame, her sakura kimono slowly
+  burning, the official wordmark and tagline in the dark left
+  of the frame. (v1 superseded the same day: its tagline
+  crossed her face. v2 superseded the same day: its glowing
+  wing outline on her back read cheesy to the author — the
+  flaming kimono replaced it.)
 
 - `ember-teaser-still-v1.jpg` — a frame from EMBER, her first
   official teaser (2026-10-21): Yellow Rav3n from behind in
