@@ -63,3 +63,11 @@ in finished form.
   of a burning village street, thatch roofs aflame on both
   sides, blood in the snow. It illustrates the launch
   record, [THE WAIL.](../posts/2026-10-26-the-wail.md).
+
+- `kaiken-kata-still-v1.jpg` — a frame from the kaiken
+  kata proof of concept (2026-10-30): Yellow Rav3n behind
+  her training partner in a village courtyard, her free
+  hand controlling his head, her kaiken at his throat,
+  her katana sheathed at her waist — the kata's control
+  position, threat without a cut. It illustrates the
+  record, [THE LITTLE BLADE HOLDS.](../posts/2026-10-30-the-little-blade-holds.md).

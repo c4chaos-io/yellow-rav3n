@@ -21,6 +21,13 @@ edits; AIs generate and audit. The kata is the visible
 layer; the Centaur methodology and the protocol are
 the two underneath it, and both are public.
 
+![Yellow Rav3n behind her training partner in a village courtyard, one hand controlling his head, her kaiken held at his throat, her katana sheathed at her waist](../artworks/kaiken-kata-still-v1.jpg)
+
+*The still: the kata's control position — the checking
+hand on his forehead, the little blade at his throat,
+threat without a cut. A frame from the proof of
+concept film.*
+
 - **The post on X:**
   https://x.com/c4chaos/status/2116200731619590637
 - **The film on YouTube:** https://youtu.be/f28j3eFWIlI

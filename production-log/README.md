@@ -14,6 +14,16 @@ are never duplicated across the two logs.
 
 ## Entries
 
+- [`prodlog_009.md`](prodlog_009.md) — **The little
+  blade** (2026-10-30). The kaiken kata proof of
+  concept ships: Kagemusha's clips, the director's
+  CapCut cut, the usage receipt, and a two-night
+  marination before the post.
+- [`prodlog_008.md`](prodlog_008.md) — **The repo
+  announcement** (2026-10-28). "HER CALLING CARD COMES
+  WITH RECEIPTS.": the repo announces itself as her
+  official site, with the Production Logs and the
+  Director's Notes in the spotlight.
 - [`prodlog_007.md`](prodlog_007.md) — **Yellow Rav3n
   Soundtrack: the album** (2026-10-27). Eleven original
   tracks grown from the main title motif in one
