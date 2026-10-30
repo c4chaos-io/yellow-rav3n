@@ -7,6 +7,11 @@ announcements also get a git tag.
 
 ## Entries (newest first)
 
+- [`2026-10-30-the-little-blade-holds.md`](2026-10-30-the-little-blade-holds.md)
+  — **THE LITTLE BLADE HOLDS.**: the kaiken kata proof
+  of concept — her dagger art in motion, and a proof of
+  the Centaur methodology and the SNAIL protocol
+  underneath it.
 - [`2026-10-28-her-calling-card-comes-with-receipts.md`](2026-10-28-her-calling-card-comes-with-receipts.md)
   — **HER CALLING CARD COMES WITH RECEIPTS.**: the
   official repo announcement — the site introduces
