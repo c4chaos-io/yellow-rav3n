@@ -7,7 +7,7 @@
 performing the kata of her signature art, the kaiken
 dagger, presented openly as a proof of concept in
 three layers (the art, the Centaur methodology, the
-SNAIL protocol):
+[SNAIL](https://github.com/c4chaos-io/trillions-per-second/tree/main/side_quests/SNAIL) protocol):
 [the post page](../posts/2026-10-30-the-little-blade-holds.md)
 · [the post on X](https://x.com/c4chaos/status/2116200731619590637)
 · [the film on YouTube](https://youtu.be/f28j3eFWIlI).
