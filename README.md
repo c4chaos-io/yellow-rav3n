@@ -20,6 +20,13 @@ and the master index to her episodes on YouTube and Twitter/X.
 
 ## Latest
 
+- 2026-11-01 — **Director's Note 009:** "The streaming
+  services died for the tokens" — HBO and Hulu cancelled
+  to free the shoestring budget for AI tokens bought as
+  needed, and a point for Grok's top up: when the weekly
+  limit runs out mid-work, usage can be bought forward
+  instead of waiting for the reset. Read it in
+  [directors-notes/dirnote_009.md](directors-notes/dirnote_009.md).
 - 2026-11-01 — **Director's Note 008:** "The poster that
   joined the rant" — the public cut of the morning the
   director ranted at Muse's creator about generation

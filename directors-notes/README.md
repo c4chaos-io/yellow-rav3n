@@ -54,3 +54,12 @@ canon-in-progress.
   sword handles, one audit that counted handles
   instead of grading the grip, and a flawed render
   shipped on purpose as Exhibit A.
+- [`dirnote_009.md`](dirnote_009.md) — **The streaming
+  services died for the tokens** (2026-11-01). The
+  shoestring budget, stated as a trade: HBO and Hulu
+  cancelled so the money can pay for AI tokens as
+  needed, and a point for Grok, whose usage can be
+  topped up in cash when the weekly limit runs out
+  mid-work and the reset is still days away. Receipt:
+  the Grok usage screenshot, filed beside the note
+  as `grok-top-up-2026-11-01.jpg`.
