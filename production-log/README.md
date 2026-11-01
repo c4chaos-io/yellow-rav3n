@@ -14,6 +14,13 @@ are never duplicated across the two logs.
 
 ## Entries
 
+- [`prodlog_010.md`](prodlog_010.md) — **Streaming out,
+  tokens in** (2026-11-01). The production budget is
+  reassigned: HBO and Hulu cancelled, the money moved
+  to AI tokens bought as needed, and Grok's top-up
+  credits logged as the mechanism that lets an
+  exhausted weekly limit buy its way forward instead
+  of stopping the work.
 - [`prodlog_009.md`](prodlog_009.md) — **The little
   blade** (2026-10-30). The kaiken kata proof of
   concept ships: Kagemusha's clips, the director's
