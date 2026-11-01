@@ -46,3 +46,11 @@ canon-in-progress.
   in the rain, finished at home on AirPods that needed
   a charging reminder, on a subscription taken out to
   rescue a free-plan theme.
+- [`dirnote_008.md`](dirnote_008.md) — **The poster that
+  joined the rant** (2026-11-01). A public rant at
+  Muse's creator about image and video generation
+  that will not follow instructions, and the poster
+  made to attach to it: four attempts, two phantom
+  sword handles, one audit that counted handles
+  instead of grading the grip, and a flawed render
+  shipped on purpose as Exhibit A.

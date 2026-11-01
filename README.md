@@ -20,6 +20,13 @@ and the master index to her episodes on YouTube and Twitter/X.
 
 ## Latest
 
+- 2026-11-01 — **Director's Note 008:** "The poster that
+  joined the rant" — the public cut of the morning the
+  director ranted at Muse's creator about generation
+  that will not follow instructions, and shipped the
+  flawed poster anyway as Exhibit A. Read it in
+  [directors-notes/dirnote_008.md](directors-notes/dirnote_008.md).
+  The rant: https://x.com/c4chaos/status/2116930036171510086
 - 2026-10-30 — **Kaiken kata proof of concept:**
   "THE LITTLE BLADE HOLDS." — 89 seconds of Yellow
   Rav3n's kaiken kata, a proof of concept in three
