@@ -25,39 +25,51 @@ credit Chloe Adams in its text; this page is the credit, kept.
 [2023 post](https://x.com/c4chaos/status/1618719003761053697) ·
 [2025 post](https://x.com/c4chaos/status/1960978042073051466)
 
-**2. "Wake Me Up" — Evanescence**
+**2. "Enemy" — Imagine Dragons & JID**
+*(from "Arcane (Soundtrack from the Animated Series),"
+2021; also on "Mercury – Act 1," 2021; written by Dan
+Reynolds, Wayne Sermon, Ben McKee, Daniel Platzman, Destin
+Route (JID), Justin Tranter, Mattias Larsson and Robin
+Fredriksson; produced by Mattman & Robin)*
+The Luma era: Midjourney stills breathed into life with
+Luma and edited into a movie clip, June 14, 2024. That post
+did not credit the song in its text; this page is the
+credit, kept.
+[Post](https://x.com/c4chaos/status/1801516332548297007)
+
+**3. "Wake Me Up" — Evanescence**
 *(from "Fallen," 2003; written by Amy Lee, Ben Moody and
 David Hodges)*
 Her quiet side: the solitude piece, October 24, 2025.
 [Post](https://x.com/c4chaos/status/1981792973714297068)
 
-**3. "Know Your Enemy" — Rage Against the Machine**
+**4. "Know Your Enemy" — Rage Against the Machine**
 *(from "Rage Against the Machine," 1992; produced by the band
 and Brendan O'Brien)*
 The Animatrix fight, first cut, October 25, 2025.
 [Post](https://x.com/c4chaos/status/1982177285240459451)
 
-**4. "Enter Sandman" — Metallica**
+**5. "Enter Sandman" — Metallica**
 *(from "Metallica," 1991; written by Kirk Hammett, James
 Hetfield and Lars Ulrich; produced by Bob Rock with Hetfield
 and Ulrich)*
 The Animatrix fight, second cut, October 28, 2025.
 [Post](https://x.com/c4chaos/status/1983263558617194895)
 
-**5. "Paint It Black Instrumental" — The Hit Crew**
+**6. "Paint It Black Instrumental" — The Hit Crew**
 *(a cover of "Paint It Black" by The Rolling Stones, from
 "Aftermath," 1966; written by Mick Jagger and Keith Richards)*
 The White Dojo Sessions: her samurai kata in the white
 studio, November 8, 2025.
 [Post](https://x.com/c4chaos/status/1987249889202606277)
 
-**6. "Beat It" — Michael Jackson**
+**7. "Beat It" — Michael Jackson**
 *(from "Thriller," 1982; written by Michael Jackson; produced
 by Quincy Jones, co-produced by Jackson)*
 The MTV homage: "Beat It — YR × MJ," November 9, 2025.
 [Post](https://x.com/c4chaos/status/1987602325712916708)
 
-**7. "Take On Me" — a-ha**
+**8. "Take On Me" — a-ha**
 *(from "Hunting High and Low," 1985; written by Magne
 Furuholmen, Morten Harket and Pål Waaktaar; album version
 produced by Alan Tarney)*
@@ -67,19 +79,19 @@ Blossom Forest (November 14), Torii Gates (November 16).
 [Ep. 02](https://x.com/c4chaos/status/1989359486612676770) ·
 [Ep. 03](https://x.com/c4chaos/status/1990161924022206904)
 
-**8. "Holding Out for a Hero" — Bonnie Tyler**
+**9. "Holding Out for a Hero" — Bonnie Tyler**
 *(from the "Footloose" soundtrack, 1984; music by Jim
 Steinman, lyrics by Dean Pitchford; produced by Steinman)*
 A dedicated music video for her fire form, November 17, 2025.
 [Post](https://x.com/c4chaos/status/1990478637095964918)
 
-**9. "Set Fire to the Rain" — Sycamore** *(cover)*
+**10. "Set Fire to the Rain" — Sycamore** *(cover)*
 *(original: Adele, from "21," 2011; written by Adele Adkins
 and Fraser T. Smith; produced by Fraser T. Smith)*
 The Torii Gates teaser, September 27, 2026.
 [Post](https://x.com/c4chaos/status/2104348331417964683)
 
-**10. "Hysteria" — Muse**
+**11. "Hysteria" — Muse**
 *(from "Absolution," 2003; written by Matthew Bellamy,
 Dominic Howard and Christopher Wolstenholme)*
 Declared in the development thread of October 18, 2026: the
@@ -88,15 +100,15 @@ layer.
 [Thread](https://x.com/c4chaos/status/2111836294896894012) ·
 [Declaration](https://x.com/c4chaos/status/2111861635187183687)
 
-**11. "Set Fire to the Rain (Hoodtrap Mylancore) SLOWED" — itsDRYKO**
+**12. "Set Fire to the Rain (Hoodtrap Mylancore) SLOWED" — itsDRYKO**
 *(a hoodtrap remix of Adele's "Set Fire to the Rain," credits
-as track 9)*
+as track 10)*
 EMBER, the first official teaser and her live-action
 introduction, October 21, 2026.
 [Post](https://x.com/c4chaos/status/2112911207740952907) ·
 [YouTube](https://youtu.be/XXAwEfgfkig)
 
-**12. "Five Years" — Sugar Hiccup**
+**13. "Five Years" — Sugar Hiccup**
 *(a Filipino indie band; from "Oracle," 1995; the band's
 own song — not the David Bowie song of the same title)*
 THE WAIL, the second official teaser: the backstory teaser,
