@@ -20,6 +20,13 @@ and the master index to her episodes on YouTube and Twitter/X.
 
 ## Latest
 
+- 2026-11-03 — **THE SHOESTRING IS NOT A METAPHOR.**:
+  the production budget, published — the whole fixed
+  tally ($102.92 a month, everyday AI use included),
+  the four shipped pieces priced against it, and the
+  artisan why, chart attached. Read it in
+  [posts/2026-11-03-the-shoestring-is-not-a-metaphor.md](posts/2026-11-03-the-shoestring-is-not-a-metaphor.md).
+  The post: https://x.com/c4chaos/status/2117634583198073086
 - 2026-11-01 — **Director's Note 009:** "The streaming
   services died for the tokens" — HBO and Hulu cancelled
   to free the shoestring budget for AI tokens bought as

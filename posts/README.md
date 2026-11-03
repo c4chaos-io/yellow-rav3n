@@ -7,6 +7,11 @@ announcements also get a git tag.
 
 ## Entries (newest first)
 
+- [`2026-11-03-the-shoestring-is-not-a-metaphor.md`](2026-11-03-the-shoestring-is-not-a-metaphor.md)
+  — **THE SHOESTRING IS NOT A METAPHOR.**: the entire
+  production budget tallied in public ($102.92/month
+  all-in), the shipped slate priced against it, and the
+  artisan why, with the chart as the receipt.
 - [`2026-10-30-the-little-blade-holds.md`](2026-10-30-the-little-blade-holds.md)
   — **THE LITTLE BLADE HOLDS.**: the kaiken kata proof
   of concept — her dagger art in motion, and a proof of
