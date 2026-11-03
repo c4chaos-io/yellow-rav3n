@@ -14,6 +14,13 @@ are never duplicated across the two logs.
 
 ## Entries
 
+- [`prodlog_011.md`](prodlog_011.md) — **The shoestring,
+  priced** (2026-11-02). The entire fixed budget tallied
+  in the open ($102.92/month all-in, everyday AI use
+  included), set against the four shipped pieces and
+  the field's published costs, with the three reasons
+  the number is this low: no API prices, methodology,
+  and constraint as engine.
 - [`prodlog_010.md`](prodlog_010.md) — **Streaming out,
   tokens in** (2026-11-01). The production budget is
   reassigned: HBO and Hulu cancelled, the money moved
