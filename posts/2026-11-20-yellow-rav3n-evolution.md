@@ -1,5 +1,12 @@
 # YELLOW RAV3N EVOLUTION: FROM CONCEPT TO EMBER.
 
+![Evolution splash: a triptych of Yellow Rav3n as the early tools imagined her, painted concept era panels, the Wingspan across her back in the center panel](../artworks/evolution-splash-v1.jpg)
+
+*The splash art for this post: Yellow Rav3n as the
+concept era imagined her, before the locks. The
+drift is the point of the montage, so the splash
+shows it too.*
+
 *2026-11-20 — the evolution montage.*
 
 The retrospective cut ships: 4 minutes 32
