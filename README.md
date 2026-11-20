@@ -20,6 +20,15 @@ and the master index to her episodes on YouTube and Twitter/X.
 
 ## Latest
 
+- 2026-11-20 — **YELLOW RAV3N EVOLUTION: FROM CONCEPT
+  TO EMBER.**: the 4:32 evolution montage, cut from
+  every era of the character, the Jan 2023 concept
+  post to the Standard Canon and world locks, with
+  EMBER stitched at the end. Read it in
+  [posts/2026-11-20-yellow-rav3n-evolution.md](posts/2026-11-20-yellow-rav3n-evolution.md).
+  The making of: [Production Log 012](production-log/prodlog_012.md);
+  the reflection: [Director's Note 010](directors-notes/dirnote_010.md).
+  The post: https://x.com/c4chaos/status/2123823508019155286
 - 2026-11-03 — **THE SHOESTRING IS NOT A METAPHOR.**:
   the production budget, published — the whole fixed
   tally ($102.92 a month, everyday AI use included),

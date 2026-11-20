@@ -63,3 +63,10 @@ canon-in-progress.
   mid-work and the reset is still days away. Receipt:
   the Grok usage screenshot, filed beside the note
   as `grok-top-up-2026-11-01.jpg`.
+- [`dirnote_010.md`](dirnote_010.md) — **Why she gets
+  an evolution montage** (2026-11-20). The montage
+  as a longitudinal record of the medium itself:
+  the character-first bet, the shoestring as a
+  chosen constraint that produced the method, and
+  why the face and world locks matter more than
+  any single clip.

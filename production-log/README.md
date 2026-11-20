@@ -14,6 +14,13 @@ are never duplicated across the two logs.
 
 ## Entries
 
+- [`prodlog_012.md`](prodlog_012.md) — **The Evolution
+  montage** (2026-11-20). The 4:32 retrospective cut
+  from every era of the character, genesis to the
+  locks, with EMBER stitched at its end; the
+  Standard Canon and the world lock recorded as
+  the montage's destination, and the full
+  soundtrack credit chain kept whole.
 - [`prodlog_011.md`](prodlog_011.md) — **The shoestring,
   priced** (2026-11-02). The entire fixed budget tallied
   in the open ($102.92/month all-in, everyday AI use
