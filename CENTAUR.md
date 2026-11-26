@@ -8,6 +8,13 @@ the Duffer Brothers were Centaur Beer Buddies: one human, one
 dreaming machine, arguing about what level of the simulation
 we are currently on.*
 
+> **This page has a new home.** It began here, in the Yellow Rav3n
+> repo, and on 2026-11-26 it was promoted to the production unit's
+> own repo, where it now lives as the canonical copy:
+> **[Centaur Production](https://github.com/c4chaos-io/centaur-production)**
+> — the umbrella repo for everything signed *(A Centaur Production)*.
+> This original stays here, as the record of where it started.
+
 **A Centaur is a human paired with an AI, each doing what the other
 cannot.**
 
