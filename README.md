@@ -219,6 +219,8 @@ are in [GROUND-RULES.md](GROUND-RULES.md).
   up as the Kitchen Test in [GROUND-RULES.md](GROUND-RULES.md), and holds for every
   future commit.
 
+The production unit behind this series: [Centaur Production](https://github.com/c4chaos-io/centaur-production), the umbrella repo.
+
 ---
 *Maintained by ~C4Chaos / Fluffy (A Centaur Production).*
 
